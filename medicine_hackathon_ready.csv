@@ -1,0 +1,1301 @@
+Medicine_Name,Condition_Treated,Average_Price,Cheaper_Alternative_Price,Side_Effects_Severity,Medicine_Effectiveness_Score,Alternative_Availability_Score,Chronic_Use_Flag,Hospital_Visit_Flag,Age_Group,Adherence_Level,Gender,Source
+Cetirizine,Allergy,297,123,1.5,5.786547613785111,69,1,0,Senior,0,Male,Dataset
+Losartan,Blood Pressure,272,139,2.2,6.430989508604547,67,0,1,Senior,1,Male,Dataset
+Montelukast,Allergy,275,133,3.1,7.51523485048605,70,1,0,Adult,1,Male,Dataset
+Cetirizine,Allergy,111,265,1.5,5.119426881515606,64,1,0,Child,1,Male,Dataset
+Naproxen,Pain,310,262,2.1,6.43557755091847,71,0,0,Child,0,Male,Dataset
+Cetirizine,Allergy,125,244,1.5,5.952182146146122,90,1,1,Adult,1,Female,Dataset
+Aspirin,Fever,162,342,3.0,6.5797628647870265,92,1,0,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,82,115,3.0,8.335014252842878,76,1,1,Adult,0,Female,Dataset
+Diclofenac,Pain,218,347,3.4,8.220716984163422,77,1,0,Senior,0,Female,Dataset
+Montelukast,Allergy,287,204,3.1,5.615121520889508,98,0,0,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,315,96,3.3,5.087413196664626,76,0,1,Senior,1,Female,Dataset
+Aspirin,Fever,265,147,3.0,8.53901035633002,98,1,1,Senior,0,Female,Dataset
+Losartan,Blood Pressure,234,263,2.2,6.528311800373168,73,1,1,Child,0,Female,Dataset
+Montelukast,Asthma,90,258,3.1,6.444621445347607,85,0,1,Child,0,Male,Dataset
+Budesonide,Asthma,348,213,1.8,5.376531527718463,81,1,1,Senior,0,Male,Dataset
+Losartan,Blood Pressure,102,278,2.2,8.541458469801864,74,0,1,Adult,1,Female,Dataset
+Aspirin,Fever,238,297,3.0,7.052930206337883,64,1,0,Adult,0,Female,Dataset
+Salbutamol,Asthma,194,333,2.0,8.86749656205229,84,1,0,Child,1,Female,Dataset
+Insulin,Diabetes,110,148,4.5,7.820875381810151,80,1,1,Adult,1,Male,Dataset
+Metformin,Diabetes,346,62,3.9,6.985326919299446,78,0,1,Adult,1,Male,Dataset
+Loratadine,Allergy,168,276,1.2,6.6749401853186905,63,1,0,Adult,0,Male,Dataset
+Ibuprofen,Fever,89,145,2.7,8.68377987253409,92,1,0,Adult,1,Male,Dataset
+Metformin,Diabetes,136,93,3.9,8.372966874030965,61,0,0,Child,0,Male,Dataset
+Dapagliflozin,Diabetes,243,272,2.4,8.999500186286939,60,0,1,Senior,1,Male,Dataset
+Insulin,Diabetes,345,99,4.5,5.996368779305713,76,0,0,Child,1,Male,Dataset
+Naproxen,Pain,102,299,2.1,7.542856468258516,88,1,0,Child,1,Female,Dataset
+Losartan,Blood Pressure,123,130,2.2,6.901828820324366,94,1,0,Adult,1,Male,Dataset
+Paracetamol,Fever,391,215,1.0,6.008493364323812,89,0,1,Adult,1,Female,Dataset
+Cetirizine,Allergy,334,64,1.5,5.686034143742539,76,0,0,Senior,1,Male,Dataset
+Salbutamol,Asthma,162,272,2.0,8.70446331487784,76,1,0,Senior,1,Male,Dataset
+Salbutamol,Asthma,191,348,2.0,5.1660065790898955,92,0,0,Child,0,Female,Dataset
+Salbutamol,Asthma,266,164,2.0,6.0472169751730345,99,0,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,115,266,3.3,5.665823215671679,75,1,1,Child,0,Male,Dataset
+Montelukast,Allergy,206,107,3.1,8.222412538418034,65,1,1,Senior,1,Female,Dataset
+Salbutamol,Asthma,329,319,2.0,5.013541726073013,83,1,0,Child,1,Female,Dataset
+Aspirin,Fever,279,92,3.0,6.390870341317261,69,1,1,Child,1,Female,Dataset
+Losartan,Blood Pressure,115,158,2.2,8.079651773266747,63,0,1,Adult,1,Female,Dataset
+Fexofenadine,Allergy,148,221,2.2,6.405888206254954,61,1,0,Senior,0,Female,Dataset
+Metformin,Diabetes,255,316,3.9,5.487113582729216,82,0,1,Adult,1,Female,Dataset
+Losartan,Blood Pressure,94,113,2.2,7.9406446772351895,63,1,0,Senior,1,Female,Dataset
+Amlodipine,Blood Pressure,399,244,3.0,5.706850588500766,96,0,1,Child,0,Female,Dataset
+Aspirin,Fever,142,106,3.0,5.821977671703667,70,0,0,Senior,0,Female,Dataset
+Loratadine,Allergy,387,233,1.2,6.063174784790341,97,1,1,Senior,1,Male,Dataset
+Fexofenadine,Allergy,320,265,2.2,8.414161096195333,88,0,0,Child,0,Male,Dataset
+Loratadine,Allergy,151,268,1.2,7.664492115488577,97,0,0,Senior,0,Male,Dataset
+Salbutamol,Asthma,272,121,2.0,5.468680503640405,90,1,1,Adult,0,Female,Dataset
+Diclofenac,Pain,151,330,3.4,8.203319929852741,68,1,1,Adult,1,Male,Dataset
+Loratadine,Allergy,316,170,1.2,8.276269144913638,79,0,0,Child,0,Female,Dataset
+Aspirin,Pain,131,148,3.0,8.667980979312848,89,0,1,Senior,0,Female,Dataset
+Paracetamol,Fever,131,239,1.0,5.900270226026119,95,0,0,Adult,0,Male,Dataset
+Loratadine,Allergy,93,115,1.2,7.533301125777561,89,1,0,Senior,0,Male,Dataset
+Diclofenac,Pain,113,100,3.4,8.736929863544631,91,1,1,Senior,0,Male,Dataset
+Atenolol,Blood Pressure,224,252,3.3,5.153542770458092,62,1,0,Senior,1,Male,Dataset
+Salbutamol,Asthma,135,213,2.0,5.214276378782989,65,1,0,Adult,0,Female,Dataset
+Metformin,Diabetes,322,124,3.9,6.306982167287588,99,1,0,Child,1,Female,Dataset
+Budesonide,Asthma,214,267,1.8,5.305850010289932,60,0,1,Senior,0,Female,Dataset
+Telmisartan,Blood Pressure,372,274,2.3,8.732375115457861,78,0,1,Child,1,Female,Dataset
+Budesonide,Asthma,362,323,1.8,7.690815595220181,60,1,0,Adult,0,Male,Dataset
+Atenolol,Blood Pressure,212,189,3.3,5.423411534497438,92,0,0,Senior,1,Male,Dataset
+Ibuprofen,Fever,220,287,2.7,6.16970630192114,71,0,0,Child,0,Female,Dataset
+Paracetamol,Fever,256,82,1.0,7.829216256846839,71,1,0,Adult,1,Female,Dataset
+Aspirin,Fever,355,295,3.0,8.656159026458313,75,0,0,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,313,144,3.0,5.0523746259620665,97,0,0,Senior,0,Male,Dataset
+Insulin,Diabetes,297,69,4.5,5.999204209991879,85,0,1,Child,0,Male,Dataset
+Montelukast,Asthma,126,122,3.1,5.274261413076536,80,1,1,Senior,1,Female,Dataset
+Budesonide,Asthma,296,199,1.8,8.829758251301037,93,0,1,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,234,169,2.4,8.77892802817499,64,1,0,Adult,0,Female,Dataset
+Cetirizine,Allergy,175,259,1.5,6.201162730274449,66,0,0,Adult,1,Female,Dataset
+Ibuprofen,Fever,355,158,2.7,6.209309642206638,84,1,1,Adult,1,Male,Dataset
+Fexofenadine,Allergy,162,225,2.2,8.629717398047184,75,0,0,Child,0,Male,Dataset
+Dapagliflozin,Diabetes,377,210,2.4,6.111649798449561,83,0,1,Senior,1,Male,Dataset
+Naproxen,Pain,168,61,2.1,8.781467376188173,88,0,1,Adult,0,Male,Dataset
+Aspirin,Fever,173,198,3.0,6.548728085255883,87,1,0,Child,0,Female,Dataset
+Insulin,Diabetes,92,163,4.5,5.999396799103822,94,0,1,Child,1,Female,Dataset
+Losartan,Blood Pressure,282,341,2.2,6.255535975601305,71,0,0,Child,1,Male,Dataset
+Losartan,Blood Pressure,369,179,2.2,7.426046735345926,91,0,0,Child,0,Male,Dataset
+Fexofenadine,Allergy,273,133,2.2,5.441146176638716,99,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,234,274,3.2,8.972905226093493,82,0,1,Senior,1,Female,Dataset
+Glipizide,Diabetes,382,198,3.2,7.736301851102672,74,0,0,Adult,1,Male,Dataset
+Aspirin,Pain,102,129,3.0,5.867013004103963,77,0,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,297,319,3.0,5.582692845531323,96,0,1,Adult,1,Male,Dataset
+Ibuprofen,Fever,243,263,2.7,7.731559359559064,88,1,0,Adult,1,Female,Dataset
+Salbutamol,Asthma,95,133,2.0,8.060499791230587,70,0,0,Adult,0,Female,Dataset
+Budesonide,Asthma,242,219,1.8,7.4827409273331105,90,0,0,Child,1,Male,Dataset
+Glipizide,Diabetes,123,223,3.2,7.0101265234979335,92,1,1,Child,0,Female,Dataset
+Salbutamol,Asthma,343,175,2.0,6.611143897203176,89,1,1,Adult,0,Female,Dataset
+Losartan,Blood Pressure,368,215,2.2,7.581570949111455,86,0,1,Adult,1,Male,Dataset
+Paracetamol,Fever,90,119,1.0,6.364086584924997,96,1,1,Adult,1,Male,Dataset
+Aspirin,Pain,324,190,3.0,7.672985651623238,94,0,0,Senior,0,Male,Dataset
+Cetirizine,Allergy,334,270,1.5,8.08362260226643,67,0,1,Adult,0,Female,Dataset
+Telmisartan,Blood Pressure,296,139,2.3,6.1962356471557065,79,1,0,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,254,96,3.3,6.739449690570123,63,1,1,Adult,1,Male,Dataset
+Naproxen,Pain,118,74,2.1,5.373566467572443,97,1,1,Adult,1,Male,Dataset
+Fexofenadine,Allergy,319,302,2.2,8.239747680852496,64,0,1,Adult,0,Male,Dataset
+Metformin,Diabetes,339,81,3.9,6.673330655586442,63,1,0,Senior,0,Female,Dataset
+Atenolol,Blood Pressure,251,205,3.3,6.597023199953576,91,1,0,Senior,0,Female,Dataset
+Diclofenac,Pain,352,67,3.4,5.24980763200327,89,1,0,Adult,0,Female,Dataset
+Metformin,Diabetes,127,271,3.9,5.815628172885916,83,0,0,Child,1,Male,Dataset
+Losartan,Blood Pressure,147,113,2.2,8.943880262566635,98,0,0,Senior,1,Female,Dataset
+Loratadine,Allergy,351,313,1.2,7.0663253980984555,62,1,1,Senior,1,Male,Dataset
+Cetirizine,Allergy,378,237,1.5,7.523824024107393,64,0,1,Child,1,Male,Dataset
+Ibuprofen,Fever,335,203,2.7,8.308200378891398,83,1,0,Senior,1,Female,Dataset
+Ibuprofen,Fever,377,281,2.7,8.380878501789185,96,0,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,176,212,3.0,7.4336526581062845,85,1,0,Child,0,Female,Dataset
+Aspirin,Fever,333,167,3.0,5.606021386438826,66,1,1,Adult,1,Female,Dataset
+Ibuprofen,Pain,274,187,2.7,6.5912178310655065,76,0,0,Child,0,Female,Dataset
+Salbutamol,Asthma,364,280,2.0,6.69557794363188,92,1,1,Adult,0,Male,Dataset
+Aspirin,Fever,168,60,3.0,8.838455206498663,93,1,1,Child,1,Female,Dataset
+Montelukast,Allergy,194,148,3.1,7.260278125622843,70,0,0,Senior,0,Female,Dataset
+Montelukast,Allergy,276,244,3.1,6.732504614936962,70,0,1,Senior,1,Female,Dataset
+Ibuprofen,Fever,85,77,2.7,6.868078587719623,80,0,0,Child,1,Male,Dataset
+Ibuprofen,Fever,271,197,2.7,7.152996478397696,79,1,0,Child,0,Male,Dataset
+Montelukast,Asthma,356,347,3.1,8.364714169906128,91,0,1,Adult,0,Male,Dataset
+Atenolol,Blood Pressure,148,328,3.3,7.326474634891246,89,0,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,117,278,3.0,5.879244657594419,93,0,1,Senior,1,Female,Dataset
+Aspirin,Fever,240,125,3.0,6.739767972383532,64,1,0,Adult,1,Female,Dataset
+Cetirizine,Allergy,198,193,1.5,7.459794043976162,61,1,1,Senior,1,Male,Dataset
+Ibuprofen,Fever,366,203,2.7,5.791705882583247,87,1,1,Senior,1,Female,Dataset
+Cetirizine,Allergy,337,79,1.5,6.540752550863729,92,1,1,Adult,1,Male,Dataset
+Telmisartan,Blood Pressure,83,190,2.3,6.380100129857244,89,1,1,Senior,1,Male,Dataset
+Dapagliflozin,Diabetes,253,220,2.4,5.4758836503314505,62,1,1,Child,0,Female,Dataset
+Aspirin,Pain,150,212,3.0,5.285376186274516,86,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,162,105,3.2,6.4780516400992365,71,1,0,Child,0,Male,Dataset
+Salbutamol,Asthma,189,102,2.0,6.767869945204996,60,0,0,Child,0,Female,Dataset
+Ibuprofen,Fever,227,259,2.7,5.9780505177619165,89,0,1,Adult,1,Male,Dataset
+Glipizide,Diabetes,129,57,3.2,6.569848188501812,65,1,0,Child,0,Female,Dataset
+Fexofenadine,Allergy,356,342,2.2,6.5561477416597915,79,0,1,Child,1,Male,Dataset
+Diclofenac,Pain,336,281,3.4,6.4790714437943855,90,1,1,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,168,326,3.3,5.695120465120237,97,0,0,Senior,1,Female,Dataset
+Naproxen,Pain,309,172,2.1,8.877559918385986,85,1,0,Senior,1,Male,Dataset
+Ibuprofen,Fever,342,345,2.7,8.786901780583545,92,1,0,Senior,0,Female,Dataset
+Loratadine,Allergy,150,228,1.2,6.8556497243578445,77,0,0,Adult,1,Female,Dataset
+Aspirin,Pain,355,171,3.0,7.6012716261102415,77,1,0,Child,0,Female,Dataset
+Glipizide,Diabetes,242,300,3.2,6.402948109530941,64,1,1,Child,0,Male,Dataset
+Metformin,Diabetes,232,237,3.9,7.624662311405811,71,1,1,Senior,0,Male,Dataset
+Ibuprofen,Fever,203,58,2.7,6.709960701331065,86,0,0,Senior,1,Male,Dataset
+Aspirin,Fever,255,214,3.0,7.762978339583196,78,0,0,Adult,1,Male,Dataset
+Salbutamol,Asthma,128,68,2.0,8.416431244759526,96,1,1,Child,0,Male,Dataset
+Cetirizine,Allergy,276,273,1.5,8.582847785950085,92,0,0,Senior,0,Female,Dataset
+Fexofenadine,Allergy,266,194,2.2,7.942778188853294,62,0,0,Child,1,Male,Dataset
+Paracetamol,Fever,287,327,1.0,8.702858872823663,78,0,1,Senior,0,Male,Dataset
+Ibuprofen,Pain,88,165,2.7,7.260772556896617,94,1,1,Adult,0,Female,Dataset
+Ibuprofen,Fever,380,249,2.7,5.234543953098317,68,0,1,Senior,1,Female,Dataset
+Fexofenadine,Allergy,370,109,2.2,5.093878729967319,78,0,0,Senior,1,Female,Dataset
+Diclofenac,Pain,327,143,3.4,5.002686658316167,76,1,0,Senior,1,Male,Dataset
+Telmisartan,Blood Pressure,277,181,2.3,8.019372369799541,89,0,1,Senior,0,Male,Dataset
+Telmisartan,Blood Pressure,318,194,2.3,7.356220178770435,78,1,1,Senior,1,Female,Dataset
+Paracetamol,Fever,337,195,1.0,5.4375005747216,71,0,1,Child,0,Female,Dataset
+Aspirin,Fever,211,251,3.0,7.519674765182505,77,0,0,Senior,1,Female,Dataset
+Glipizide,Diabetes,292,173,3.2,6.778239042255548,81,1,1,Child,0,Female,Dataset
+Diclofenac,Pain,274,110,3.4,6.541398458024152,65,0,0,Adult,0,Female,Dataset
+Aspirin,Fever,144,184,3.0,7.956765823530752,96,1,1,Senior,1,Male,Dataset
+Insulin,Diabetes,126,307,4.5,8.222262572535564,87,1,1,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,371,257,3.0,5.111251402032341,76,0,0,Child,0,Male,Dataset
+Insulin,Diabetes,295,321,4.5,8.528361199925193,72,0,0,Senior,0,Male,Dataset
+Aspirin,Fever,239,281,3.0,6.5997471777615235,83,1,1,Senior,1,Male,Dataset
+Fexofenadine,Allergy,211,210,2.2,7.6210436629806715,60,0,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,250,273,3.0,8.602700369320015,94,1,0,Child,0,Male,Dataset
+Cetirizine,Allergy,396,310,1.5,7.738142808175883,81,0,1,Child,0,Male,Dataset
+Metformin,Diabetes,392,109,3.9,7.181900935468443,77,1,0,Child,0,Male,Dataset
+Fexofenadine,Allergy,399,121,2.2,7.664289410593617,82,1,1,Adult,1,Male,Dataset
+Montelukast,Allergy,357,206,3.1,5.054162864745269,86,0,1,Senior,1,Male,Dataset
+Glipizide,Diabetes,302,70,3.2,5.641708493668404,66,1,1,Child,0,Female,Dataset
+Loratadine,Allergy,170,113,1.2,5.650691935778303,80,1,1,Adult,1,Male,Dataset
+Montelukast,Allergy,385,284,3.1,5.365081496351436,74,1,0,Senior,0,Female,Dataset
+Metformin,Diabetes,160,219,3.9,7.36912935642066,78,0,1,Adult,0,Male,Dataset
+Aspirin,Fever,194,85,3.0,7.231810788020201,75,0,1,Child,1,Male,Dataset
+Ibuprofen,Fever,253,241,2.7,8.39812578959965,83,0,1,Child,0,Male,Dataset
+Salbutamol,Asthma,230,153,2.0,8.376309811555442,74,1,0,Child,0,Male,Dataset
+Ibuprofen,Pain,182,60,2.7,6.400398387884929,68,1,1,Senior,1,Male,Dataset
+Cetirizine,Allergy,181,142,1.5,7.652730539265738,70,0,1,Child,0,Male,Dataset
+Dapagliflozin,Diabetes,326,302,2.4,8.653935443036683,96,1,1,Child,1,Female,Dataset
+Montelukast,Asthma,103,186,3.1,5.608366371260771,67,1,0,Adult,1,Female,Dataset
+Dapagliflozin,Diabetes,212,94,2.4,7.540030084592827,78,0,0,Adult,0,Male,Dataset
+Salbutamol,Asthma,338,112,2.0,5.517065377273972,65,1,1,Child,1,Male,Dataset
+Metformin,Diabetes,229,137,3.9,5.591592630372663,73,0,0,Adult,0,Male,Dataset
+Ibuprofen,Pain,235,327,2.7,7.1965921664522625,87,0,1,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,146,317,3.0,6.627250682944644,80,0,1,Adult,1,Female,Dataset
+Montelukast,Asthma,289,85,3.1,6.778887671041955,64,0,0,Adult,1,Male,Dataset
+Aspirin,Pain,135,260,3.0,7.184823358144031,62,1,0,Senior,1,Male,Dataset
+Ibuprofen,Pain,130,171,2.7,8.739333555547839,70,0,0,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,128,299,3.0,5.593332673678949,70,1,0,Adult,1,Male,Dataset
+Ibuprofen,Fever,363,117,2.7,8.156288971327127,76,1,1,Child,0,Female,Dataset
+Diclofenac,Pain,217,222,3.4,8.651354084677493,97,0,0,Adult,1,Female,Dataset
+Aspirin,Fever,120,205,3.0,6.199488333242833,89,1,1,Adult,1,Male,Dataset
+Metformin,Diabetes,133,250,3.9,8.81313905393287,66,1,1,Child,1,Female,Dataset
+Salbutamol,Asthma,137,87,2.0,8.244145639902621,96,0,1,Senior,0,Male,Dataset
+Paracetamol,Fever,267,326,1.0,6.226106137140921,97,0,1,Adult,0,Female,Dataset
+Paracetamol,Fever,182,258,1.0,8.445420847960161,69,0,0,Child,0,Female,Dataset
+Montelukast,Asthma,224,332,3.1,5.303974132388483,72,0,1,Adult,1,Female,Dataset
+Aspirin,Fever,363,276,3.0,6.8423991803924595,82,0,1,Adult,1,Male,Dataset
+Insulin,Diabetes,332,329,4.5,8.617598047965888,95,1,0,Adult,1,Male,Dataset
+Montelukast,Asthma,317,299,3.1,7.626079864031288,89,1,1,Senior,0,Male,Dataset
+Telmisartan,Blood Pressure,213,212,2.3,7.28551962985525,79,0,0,Senior,1,Male,Dataset
+Telmisartan,Blood Pressure,97,79,2.3,6.229719331311463,67,1,1,Child,1,Male,Dataset
+Aspirin,Pain,381,70,3.0,7.737290027482372,85,0,1,Child,0,Male,Dataset
+Cetirizine,Allergy,386,203,1.5,5.821817162400945,63,1,1,Senior,0,Female,Dataset
+Budesonide,Asthma,116,157,1.8,8.459381240479468,80,1,1,Senior,0,Male,Dataset
+Paracetamol,Fever,254,319,1.0,5.240645294330802,61,0,0,Child,1,Male,Dataset
+Atenolol,Blood Pressure,395,316,3.3,7.5868402582167125,94,0,1,Child,1,Female,Dataset
+Metformin,Diabetes,138,99,3.9,8.403532847714544,72,0,1,Adult,1,Male,Dataset
+Insulin,Diabetes,141,164,4.5,7.9633941288502506,74,0,1,Adult,0,Female,Dataset
+Cetirizine,Allergy,194,339,1.5,7.974629028008808,86,1,1,Adult,1,Male,Dataset
+Diclofenac,Pain,107,308,3.4,5.41370498740879,98,1,1,Senior,1,Female,Dataset
+Montelukast,Asthma,293,258,3.1,5.549337170151505,62,0,0,Senior,1,Female,Dataset
+Salbutamol,Asthma,86,50,2.0,8.024315011369644,81,0,1,Adult,1,Female,Dataset
+Naproxen,Pain,351,339,2.1,8.330098126274592,85,1,1,Adult,1,Female,Dataset
+Cetirizine,Allergy,197,228,1.5,7.408727249755122,64,0,0,Senior,0,Male,Dataset
+Telmisartan,Blood Pressure,300,87,2.3,5.628005422625451,81,0,1,Adult,1,Female,Dataset
+Montelukast,Asthma,216,178,3.1,6.1454556046946935,89,0,0,Senior,0,Female,Dataset
+Atenolol,Blood Pressure,222,192,3.3,5.07591374869809,92,1,0,Adult,0,Female,Dataset
+Ibuprofen,Pain,101,244,2.7,8.003992967839388,65,0,0,Senior,1,Female,Dataset
+Ibuprofen,Fever,328,144,2.7,8.139416012073893,72,0,0,Adult,0,Female,Dataset
+Glipizide,Diabetes,119,97,3.2,7.82459184908247,67,0,1,Adult,0,Male,Dataset
+Ibuprofen,Pain,211,227,2.7,5.2170360530896005,87,0,1,Senior,1,Female,Dataset
+Aspirin,Pain,136,347,3.0,6.963235001804793,95,0,0,Adult,1,Female,Dataset
+Ibuprofen,Pain,118,317,2.7,5.916341975087541,91,0,1,Child,1,Male,Dataset
+Paracetamol,Fever,126,239,1.0,5.4839107133343425,64,0,1,Child,0,Male,Dataset
+Ibuprofen,Fever,379,202,2.7,5.550898198277032,81,0,1,Adult,0,Female,Dataset
+Metformin,Diabetes,390,259,3.9,7.621653692849947,77,1,1,Senior,0,Male,Dataset
+Montelukast,Allergy,335,84,3.1,6.470283724931529,63,1,1,Child,0,Female,Dataset
+Paracetamol,Fever,81,255,1.0,7.278622831972605,96,0,1,Child,0,Female,Dataset
+Glipizide,Diabetes,131,90,3.2,6.578617264087374,81,0,1,Adult,0,Male,Dataset
+Naproxen,Pain,205,329,2.1,5.1523877594806535,68,1,1,Senior,1,Female,Dataset
+Montelukast,Asthma,286,171,3.1,6.550239523491781,99,1,0,Senior,0,Female,Dataset
+Fexofenadine,Allergy,162,110,2.2,5.492250408254561,66,1,1,Adult,1,Male,Dataset
+Ibuprofen,Fever,241,290,2.7,8.346375760174837,83,1,1,Child,0,Female,Dataset
+Diclofenac,Pain,374,309,3.4,5.2796616577679405,79,1,0,Child,0,Male,Dataset
+Diclofenac,Pain,192,65,3.4,8.861656958243499,76,0,0,Child,0,Male,Dataset
+Paracetamol,Fever,161,95,1.0,8.128010194710951,91,0,1,Child,0,Male,Dataset
+Diclofenac,Pain,345,340,3.4,6.182057016210381,94,1,0,Senior,0,Female,Dataset
+Aspirin,Fever,226,276,3.0,7.116318139846505,96,1,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,213,54,3.3,6.086948882937795,68,0,1,Adult,0,Male,Dataset
+Paracetamol,Fever,114,190,1.0,7.7154105375076005,85,0,1,Child,1,Female,Dataset
+Aspirin,Fever,277,320,3.0,7.87845490558972,76,1,1,Adult,0,Female,Dataset
+Insulin,Diabetes,229,249,4.5,5.129682755520395,76,1,0,Child,0,Male,Dataset
+Montelukast,Asthma,271,74,3.1,5.376545460834583,61,1,0,Adult,0,Male,Dataset
+Paracetamol,Fever,209,270,1.0,5.770101978376902,66,1,1,Senior,0,Male,Dataset
+Glipizide,Diabetes,360,279,3.2,6.2854511553099215,90,1,0,Senior,0,Female,Dataset
+Aspirin,Fever,275,291,3.0,6.359510432464466,78,1,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,119,242,3.0,6.0862685736549675,93,0,0,Child,0,Female,Dataset
+Dapagliflozin,Diabetes,242,174,2.4,8.092686474890197,90,1,0,Child,0,Female,Dataset
+Paracetamol,Fever,396,277,1.0,7.84851850419771,85,1,1,Child,1,Female,Dataset
+Telmisartan,Blood Pressure,315,272,2.3,7.436734393640381,66,0,0,Adult,0,Female,Dataset
+Cetirizine,Allergy,339,338,1.5,5.0174714562727925,86,1,1,Adult,0,Female,Dataset
+Ibuprofen,Fever,341,235,2.7,8.847436856430432,90,0,1,Senior,1,Female,Dataset
+Telmisartan,Blood Pressure,204,109,2.3,6.653668967629127,65,0,1,Adult,0,Female,Dataset
+Fexofenadine,Allergy,384,96,2.2,7.448385618842984,98,1,0,Adult,1,Female,Dataset
+Metformin,Diabetes,153,248,3.9,5.333937593442931,90,1,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,123,320,3.0,7.286436136573206,65,0,1,Senior,1,Male,Dataset
+Metformin,Diabetes,354,217,3.9,8.994987135670664,64,1,0,Adult,1,Female,Dataset
+Aspirin,Fever,378,119,3.0,5.5943372046796025,78,0,0,Senior,0,Female,Dataset
+Aspirin,Fever,285,56,3.0,6.856888164677473,71,1,0,Senior,1,Female,Dataset
+Aspirin,Fever,370,319,3.0,6.823732415439961,94,1,0,Child,1,Male,Dataset
+Fexofenadine,Allergy,119,72,2.2,7.431401130844039,85,0,0,Adult,0,Female,Dataset
+Montelukast,Allergy,99,319,3.1,6.71515539359261,65,0,1,Adult,1,Female,Dataset
+Aspirin,Pain,336,129,3.0,8.942325127519654,90,0,1,Child,0,Female,Dataset
+Aspirin,Fever,137,249,3.0,8.824475500029733,76,1,1,Senior,0,Female,Dataset
+Cetirizine,Allergy,110,344,1.5,6.161561441540433,85,1,0,Adult,0,Male,Dataset
+Montelukast,Asthma,245,297,3.1,6.3312396996041365,91,1,0,Adult,1,Female,Dataset
+Losartan,Blood Pressure,112,335,2.2,5.218188606063045,84,1,1,Child,0,Male,Dataset
+Aspirin,Pain,384,232,3.0,8.494661289533838,61,1,0,Child,0,Female,Dataset
+Ibuprofen,Fever,357,79,2.7,6.247032366000158,83,1,0,Senior,0,Female,Dataset
+Salbutamol,Asthma,212,188,2.0,7.360138574063088,86,1,0,Adult,1,Male,Dataset
+Paracetamol,Fever,91,267,1.0,8.10256809269968,82,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,337,153,3.2,8.999846318886737,98,0,0,Adult,0,Male,Dataset
+Ibuprofen,Fever,188,195,2.7,6.188210375537393,69,0,0,Child,1,Male,Dataset
+Fexofenadine,Allergy,389,328,2.2,7.30668522802281,83,1,0,Child,1,Male,Dataset
+Diclofenac,Pain,397,71,3.4,6.124228499318402,68,1,0,Child,0,Female,Dataset
+Salbutamol,Asthma,253,93,2.0,7.093287075964552,77,1,0,Child,1,Male,Dataset
+Paracetamol,Fever,118,217,1.0,7.77706114914101,75,0,0,Adult,0,Male,Dataset
+Aspirin,Fever,263,218,3.0,6.514742829811054,61,0,0,Child,0,Male,Dataset
+Montelukast,Allergy,263,206,3.1,8.279649581558594,67,1,1,Senior,0,Male,Dataset
+Ibuprofen,Fever,371,348,2.7,8.977362829961237,76,0,1,Child,0,Male,Dataset
+Insulin,Diabetes,95,117,4.5,6.7914970429824635,68,1,0,Child,0,Female,Dataset
+Dapagliflozin,Diabetes,273,335,2.4,8.65638670022191,81,1,0,Senior,0,Male,Dataset
+Insulin,Diabetes,192,238,4.5,6.2754918012372585,93,0,1,Child,0,Male,Dataset
+Salbutamol,Asthma,125,251,2.0,8.411010946229261,67,0,0,Adult,0,Male,Dataset
+Budesonide,Asthma,136,312,1.8,5.254245441750232,86,0,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,84,140,3.0,7.900718179224824,81,1,1,Child,1,Female,Dataset
+Ibuprofen,Fever,261,279,2.7,8.94060233429955,64,0,0,Child,0,Female,Dataset
+Aspirin,Pain,342,211,3.0,8.86946006357001,63,1,0,Child,0,Male,Dataset
+Glipizide,Diabetes,136,128,3.2,7.127515811784672,99,0,1,Adult,1,Female,Dataset
+Glipizide,Diabetes,186,297,3.2,7.956204452198682,83,0,1,Adult,1,Male,Dataset
+Salbutamol,Asthma,215,158,2.0,5.219502987017405,86,0,0,Child,1,Female,Dataset
+Aspirin,Pain,276,190,3.0,5.02551654179619,79,1,0,Senior,1,Female,Dataset
+Paracetamol,Fever,223,293,1.0,6.979902594281391,67,1,1,Adult,1,Female,Dataset
+Ibuprofen,Fever,375,168,2.7,6.142611379827068,91,1,1,Senior,1,Female,Dataset
+Insulin,Diabetes,272,117,4.5,5.940743909583618,71,1,1,Senior,0,Female,Dataset
+Naproxen,Pain,123,106,2.1,6.265402086318378,85,1,1,Adult,0,Female,Dataset
+Aspirin,Pain,194,148,3.0,7.236019813007971,75,0,1,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,166,294,3.3,8.097997673205485,72,1,1,Child,1,Male,Dataset
+Atenolol,Blood Pressure,231,102,3.3,8.714758349581682,92,0,0,Adult,1,Female,Dataset
+Ibuprofen,Pain,292,164,2.7,6.920402776286825,63,1,0,Child,0,Male,Dataset
+Loratadine,Allergy,298,167,1.2,7.709415071041487,78,0,0,Child,1,Female,Dataset
+Glipizide,Diabetes,108,223,3.2,7.9821062039188035,68,1,0,Child,1,Male,Dataset
+Amlodipine,Blood Pressure,82,246,3.0,8.339288202666289,71,1,0,Child,0,Male,Dataset
+Glipizide,Diabetes,99,77,3.2,6.124327870214243,65,1,1,Senior,0,Male,Dataset
+Metformin,Diabetes,149,259,3.9,6.309299758557959,70,0,1,Senior,0,Female,Dataset
+Loratadine,Allergy,211,87,1.2,7.175031207407233,80,1,0,Senior,0,Male,Dataset
+Montelukast,Asthma,294,204,3.1,5.470772775208601,70,1,0,Senior,1,Female,Dataset
+Salbutamol,Asthma,341,252,2.0,8.20991358348258,63,0,0,Child,1,Male,Dataset
+Cetirizine,Allergy,197,153,1.5,7.916755446423732,83,0,1,Child,1,Female,Dataset
+Montelukast,Asthma,393,284,3.1,8.057976673608781,91,1,1,Child,0,Male,Dataset
+Cetirizine,Allergy,332,258,1.5,5.330806180679945,78,0,1,Child,0,Female,Dataset
+Metformin,Diabetes,130,196,3.9,7.659518087684425,87,0,0,Adult,1,Female,Dataset
+Paracetamol,Fever,398,196,1.0,7.783013153320443,62,1,0,Senior,0,Female,Dataset
+Montelukast,Allergy,288,258,3.1,5.636112938330054,67,0,1,Senior,1,Female,Dataset
+Montelukast,Asthma,386,283,3.1,7.693054662491499,61,0,0,Child,0,Male,Dataset
+Metformin,Diabetes,361,133,3.9,7.147798131952422,83,1,0,Adult,1,Female,Dataset
+Salbutamol,Asthma,162,59,2.0,5.821507905057292,61,1,0,Senior,1,Female,Dataset
+Aspirin,Pain,258,120,3.0,6.655380622151988,65,0,0,Senior,1,Female,Dataset
+Montelukast,Asthma,325,123,3.1,6.435281854324365,64,1,1,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,330,279,3.0,8.99983454213724,88,0,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,397,305,3.0,6.75807353790792,65,1,1,Adult,0,Male,Dataset
+Glipizide,Diabetes,288,275,3.2,6.467332183546834,99,0,1,Child,1,Male,Dataset
+Loratadine,Allergy,130,206,1.2,5.0001224296950735,87,0,0,Senior,1,Female,Dataset
+Aspirin,Fever,112,139,3.0,7.603932464208249,78,1,1,Senior,1,Female,Dataset
+Telmisartan,Blood Pressure,204,196,2.3,6.98151585230655,97,1,0,Adult,1,Female,Dataset
+Aspirin,Fever,327,165,3.0,7.2071984310787585,85,0,1,Child,1,Male,Dataset
+Cetirizine,Allergy,83,336,1.5,8.602752718082254,89,0,1,Child,1,Male,Dataset
+Paracetamol,Fever,340,329,1.0,5.5078442461382515,77,0,1,Senior,1,Female,Dataset
+Aspirin,Fever,118,55,3.0,7.5128844807287525,90,1,1,Senior,1,Female,Dataset
+Salbutamol,Asthma,323,97,2.0,7.1471130660528415,91,0,1,Adult,1,Male,Dataset
+Aspirin,Pain,232,321,3.0,5.467009529197316,91,1,0,Senior,0,Female,Dataset
+Paracetamol,Fever,223,155,1.0,8.046456350081126,79,0,1,Child,1,Male,Dataset
+Glipizide,Diabetes,226,185,3.2,5.186760513377446,79,1,0,Adult,1,Male,Dataset
+Naproxen,Pain,354,243,2.1,6.758714326574525,67,1,1,Adult,1,Male,Dataset
+Ibuprofen,Pain,355,239,2.7,7.526694310605015,89,0,1,Adult,0,Female,Dataset
+Montelukast,Asthma,350,219,3.1,7.063343416410031,87,0,1,Adult,1,Male,Dataset
+Dapagliflozin,Diabetes,387,150,2.4,6.016997002912534,91,0,1,Adult,0,Female,Dataset
+Budesonide,Asthma,382,207,1.8,6.8099830459085045,96,0,0,Child,1,Male,Dataset
+Ibuprofen,Fever,383,87,2.7,5.7138344512011585,91,1,0,Adult,0,Male,Dataset
+Montelukast,Allergy,279,119,3.1,7.269898496252091,97,0,0,Senior,0,Female,Dataset
+Fexofenadine,Allergy,208,137,2.2,5.058540069197035,95,1,1,Senior,1,Male,Dataset
+Budesonide,Asthma,148,81,1.8,7.642637832417819,66,0,0,Child,0,Female,Dataset
+Ibuprofen,Fever,106,277,2.7,8.939786765279083,95,1,0,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,172,193,3.0,8.34023538728543,97,0,1,Adult,1,Male,Dataset
+Salbutamol,Asthma,295,132,2.0,5.501823211701133,64,0,0,Senior,0,Male,Dataset
+Salbutamol,Asthma,213,153,2.0,7.210220901319721,87,0,0,Adult,0,Male,Dataset
+Paracetamol,Fever,381,242,1.0,7.596378247035865,80,1,1,Senior,1,Female,Dataset
+Montelukast,Asthma,147,250,3.1,6.037950742325803,99,0,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,83,324,3.0,8.746185355302021,84,1,1,Adult,0,Male,Dataset
+Paracetamol,Fever,271,193,1.0,7.8435156965015995,89,0,0,Senior,0,Female,Dataset
+Montelukast,Asthma,88,330,3.1,8.560321564310364,70,1,0,Child,0,Male,Dataset
+Amlodipine,Blood Pressure,233,99,3.0,5.504832474759469,66,0,0,Adult,0,Female,Dataset
+Salbutamol,Asthma,391,277,2.0,8.493152299398627,63,1,1,Adult,1,Male,Dataset
+Cetirizine,Allergy,175,135,1.5,8.023992242056698,79,1,1,Adult,1,Male,Dataset
+Aspirin,Pain,191,144,3.0,5.685559916367202,82,1,1,Child,1,Female,Dataset
+Aspirin,Pain,311,103,3.0,8.935390663568954,95,1,0,Senior,0,Male,Dataset
+Montelukast,Allergy,209,84,3.1,6.530009377391618,62,0,1,Adult,0,Male,Dataset
+Aspirin,Fever,218,122,3.0,7.864546182166887,97,1,0,Senior,0,Female,Dataset
+Telmisartan,Blood Pressure,97,306,2.3,6.956247348297685,92,1,1,Senior,1,Female,Dataset
+Fexofenadine,Allergy,99,274,2.2,8.057285835655819,65,0,0,Senior,0,Female,Dataset
+Diclofenac,Pain,325,233,3.4,7.6317031571463385,76,1,0,Adult,0,Male,Dataset
+Naproxen,Pain,354,234,2.1,6.457996969940842,98,1,0,Senior,1,Female,Dataset
+Budesonide,Asthma,373,156,1.8,5.1601308812381,92,0,0,Senior,0,Female,Dataset
+Glipizide,Diabetes,171,168,3.2,7.726756305643907,70,1,0,Child,1,Female,Dataset
+Budesonide,Asthma,394,119,1.8,6.085660851259286,96,1,1,Adult,1,Female,Dataset
+Paracetamol,Fever,115,194,1.0,5.752321237094941,81,0,1,Adult,0,Male,Dataset
+Dapagliflozin,Diabetes,286,308,2.4,6.049254832031085,68,1,0,Child,1,Female,Dataset
+Cetirizine,Allergy,244,164,1.5,7.119184208355402,74,0,1,Senior,0,Female,Dataset
+Losartan,Blood Pressure,276,271,2.2,6.100873115204668,67,0,0,Senior,0,Male,Dataset
+Paracetamol,Fever,294,314,1.0,7.200079708811,96,0,0,Child,0,Female,Dataset
+Aspirin,Fever,245,330,3.0,8.397421811308028,73,0,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,204,96,3.0,5.781545736557824,87,1,0,Senior,1,Female,Dataset
+Budesonide,Asthma,386,167,1.8,7.326524125402004,94,1,0,Child,0,Female,Dataset
+Aspirin,Fever,310,173,3.0,7.462566132524618,70,1,1,Senior,1,Male,Dataset
+Salbutamol,Asthma,171,71,2.0,8.009764715495624,94,1,1,Child,0,Female,Dataset
+Amlodipine,Blood Pressure,358,215,3.0,6.038814553109091,71,0,1,Senior,0,Female,Dataset
+Montelukast,Allergy,236,267,3.1,6.362841500661055,79,1,0,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,241,82,3.3,6.162975029297444,83,0,1,Child,0,Female,Dataset
+Losartan,Blood Pressure,121,247,2.2,7.488068129168333,87,1,1,Adult,1,Male,Dataset
+Telmisartan,Blood Pressure,183,194,2.3,5.166767935233272,86,0,1,Senior,0,Male,Dataset
+Ibuprofen,Fever,226,301,2.7,5.838985362402453,63,0,1,Adult,1,Female,Dataset
+Atenolol,Blood Pressure,390,285,3.3,8.910516361122207,79,1,1,Senior,0,Female,Dataset
+Aspirin,Fever,378,159,3.0,8.721083332470762,79,0,1,Senior,0,Male,Dataset
+Diclofenac,Pain,305,231,3.4,7.664417745472918,76,1,1,Adult,0,Male,Dataset
+Diclofenac,Pain,386,293,3.4,5.254581109658194,63,1,1,Adult,0,Male,Dataset
+Insulin,Diabetes,163,290,4.5,5.682968736047947,80,1,1,Senior,1,Male,Dataset
+Aspirin,Fever,326,208,3.0,6.856651265743434,91,0,1,Senior,1,Female,Dataset
+Aspirin,Pain,335,334,3.0,7.104132760450263,78,1,1,Adult,0,Female,Dataset
+Insulin,Diabetes,103,174,4.5,5.17799963708053,81,0,0,Senior,0,Female,Dataset
+Aspirin,Pain,107,60,3.0,6.314918550856284,90,0,1,Child,1,Female,Dataset
+Glipizide,Diabetes,318,178,3.2,7.739144289159264,81,1,0,Senior,1,Male,Dataset
+Naproxen,Pain,136,181,2.1,8.88554141002108,90,0,0,Senior,0,Female,Dataset
+Ibuprofen,Pain,281,297,2.7,6.965794955462195,96,1,1,Adult,1,Male,Dataset
+Loratadine,Allergy,377,76,1.2,6.435551522586936,84,1,1,Child,0,Female,Dataset
+Aspirin,Pain,221,190,3.0,6.199522989688361,97,0,0,Child,0,Female,Dataset
+Ibuprofen,Fever,96,127,2.7,6.533691865447795,85,0,0,Adult,1,Female,Dataset
+Ibuprofen,Pain,142,64,2.7,8.775620457047527,91,0,1,Adult,1,Male,Dataset
+Dapagliflozin,Diabetes,243,144,2.4,6.698890921037036,70,1,0,Adult,1,Female,Dataset
+Paracetamol,Fever,365,186,1.0,8.411691735034644,64,1,1,Child,0,Female,Dataset
+Aspirin,Fever,331,169,3.0,8.371031702826208,76,1,1,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,251,218,3.3,8.10791974731853,72,0,0,Senior,1,Female,Dataset
+Loratadine,Allergy,322,52,1.2,7.356946711331133,62,0,0,Adult,1,Female,Dataset
+Ibuprofen,Fever,239,218,2.7,6.497582008769887,71,1,0,Adult,1,Female,Dataset
+Paracetamol,Fever,95,163,1.0,6.6053475597331905,83,0,0,Senior,0,Male,Dataset
+Budesonide,Asthma,335,86,1.8,6.986807122859304,63,0,1,Child,0,Male,Dataset
+Salbutamol,Asthma,90,255,2.0,5.194844494883024,62,0,1,Adult,1,Male,Dataset
+Salbutamol,Asthma,172,190,2.0,7.110672676544402,64,1,0,Child,0,Female,Dataset
+Fexofenadine,Allergy,140,140,2.2,8.313885357754586,82,0,0,Child,0,Female,Dataset
+Diclofenac,Pain,350,135,3.4,7.847569097840472,62,0,1,Child,0,Male,Dataset
+Ibuprofen,Pain,278,70,2.7,6.916863847034477,96,0,0,Adult,1,Male,Dataset
+Aspirin,Pain,351,199,3.0,6.671190126573406,75,0,1,Child,0,Male,Dataset
+Paracetamol,Fever,86,116,1.0,5.316001023028614,92,1,0,Adult,0,Female,Dataset
+Fexofenadine,Allergy,167,69,2.2,8.447812447601226,93,1,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,221,80,3.0,8.913430685781464,99,1,1,Adult,0,Male,Dataset
+Atenolol,Blood Pressure,166,120,3.3,8.754095302681527,83,1,0,Child,1,Male,Dataset
+Naproxen,Pain,84,251,2.1,5.460272853450752,65,1,0,Adult,1,Female,Dataset
+Ibuprofen,Fever,221,138,2.7,5.702290459306054,87,0,0,Adult,0,Female,Dataset
+Aspirin,Fever,203,330,3.0,7.561849328234226,71,1,1,Senior,1,Male,Dataset
+Telmisartan,Blood Pressure,399,263,2.3,6.858408901102181,71,1,0,Child,0,Female,Dataset
+Ibuprofen,Fever,185,222,2.7,8.38662790129227,62,0,1,Senior,1,Female,Dataset
+Metformin,Diabetes,363,197,3.9,7.594776843625407,77,1,1,Senior,0,Female,Dataset
+Fexofenadine,Allergy,321,89,2.2,8.324143001634859,87,0,0,Senior,1,Male,Dataset
+Budesonide,Asthma,238,292,1.8,5.192079309157342,95,0,1,Senior,1,Female,Dataset
+Losartan,Blood Pressure,315,217,2.2,6.3036865052884075,83,0,1,Adult,1,Male,Dataset
+Metformin,Diabetes,140,259,3.9,5.272599511862566,99,1,0,Adult,0,Female,Dataset
+Paracetamol,Fever,119,77,1.0,8.277710541123906,60,0,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,247,224,3.0,8.46795354309903,73,0,0,Senior,0,Female,Dataset
+Loratadine,Allergy,142,85,1.2,8.06001749205032,80,1,1,Child,0,Female,Dataset
+Paracetamol,Fever,396,175,1.0,6.5318311959632585,78,0,0,Adult,1,Male,Dataset
+Montelukast,Allergy,270,63,3.1,7.548551542731681,66,0,0,Adult,1,Female,Dataset
+Glipizide,Diabetes,253,79,3.2,7.000390660261834,81,0,1,Senior,1,Female,Dataset
+Losartan,Blood Pressure,206,206,2.2,8.14906139070822,69,0,0,Adult,1,Female,Dataset
+Aspirin,Fever,337,319,3.0,8.804395997032646,84,1,1,Adult,0,Female,Dataset
+Insulin,Diabetes,289,76,4.5,5.3362662440958015,73,0,1,Adult,1,Female,Dataset
+Montelukast,Asthma,336,270,3.1,5.105933359813511,95,1,0,Senior,1,Male,Dataset
+Losartan,Blood Pressure,393,206,2.2,6.564044393186499,61,0,0,Senior,1,Female,Dataset
+Fexofenadine,Allergy,116,111,2.2,6.557736217577627,82,1,1,Child,0,Female,Dataset
+Cetirizine,Allergy,166,106,1.5,7.992561860626449,79,1,1,Senior,0,Male,Dataset
+Montelukast,Asthma,208,259,3.1,8.395950623186554,82,1,1,Adult,1,Female,Dataset
+Montelukast,Asthma,299,240,3.1,7.886445821835753,70,0,0,Senior,1,Female,Dataset
+Paracetamol,Fever,176,235,1.0,6.458840142091493,90,1,1,Senior,0,Female,Dataset
+Insulin,Diabetes,329,128,4.5,5.768845887860078,69,0,0,Child,1,Female,Dataset
+Atenolol,Blood Pressure,130,169,3.3,8.15541781949045,70,1,1,Adult,0,Female,Dataset
+Ibuprofen,Fever,167,91,2.7,8.257835052526502,84,1,1,Adult,1,Female,Dataset
+Ibuprofen,Fever,306,201,2.7,5.906143372851309,73,1,1,Child,1,Female,Dataset
+Ibuprofen,Fever,215,145,2.7,5.2700971094275735,84,1,0,Adult,0,Male,Dataset
+Salbutamol,Asthma,238,231,2.0,5.830734408623243,63,1,1,Adult,1,Male,Dataset
+Montelukast,Allergy,106,330,3.1,6.507648987273377,96,0,1,Adult,1,Male,Dataset
+Aspirin,Fever,369,164,3.0,5.109583855073279,60,0,1,Adult,1,Female,Dataset
+Ibuprofen,Pain,386,143,2.7,8.546492407248348,90,1,1,Senior,0,Female,Dataset
+Diclofenac,Pain,243,248,3.4,7.374838543298794,66,1,0,Adult,1,Male,Dataset
+Naproxen,Pain,392,295,2.1,8.157614070224382,88,0,1,Child,0,Male,Dataset
+Paracetamol,Fever,222,57,1.0,8.41877525510805,88,1,1,Senior,0,Female,Dataset
+Fexofenadine,Allergy,147,298,2.2,6.533758870767736,67,0,1,Child,0,Male,Dataset
+Naproxen,Pain,351,246,2.1,7.020245347469818,64,0,0,Senior,0,Male,Dataset
+Diclofenac,Pain,151,89,3.4,5.144696131552227,92,0,1,Senior,1,Male,Dataset
+Montelukast,Allergy,201,265,3.1,6.863297084850818,66,1,0,Child,1,Male,Dataset
+Telmisartan,Blood Pressure,167,327,2.3,7.371911232141667,92,0,1,Senior,0,Male,Dataset
+Dapagliflozin,Diabetes,230,211,2.4,8.563286749589565,93,0,1,Adult,1,Male,Dataset
+Aspirin,Pain,199,348,3.0,7.897835021236945,96,1,0,Senior,0,Female,Dataset
+Glipizide,Diabetes,85,300,3.2,5.4912911062254235,81,0,0,Senior,0,Female,Dataset
+Paracetamol,Fever,111,204,1.0,7.800140324874868,99,0,0,Senior,1,Male,Dataset
+Metformin,Diabetes,107,206,3.9,7.651992971866626,92,1,0,Senior,1,Female,Dataset
+Aspirin,Fever,196,345,3.0,5.8808901220955185,75,1,0,Senior,0,Female,Dataset
+Montelukast,Allergy,142,333,3.1,5.752096573993912,68,0,1,Adult,0,Male,Dataset
+Insulin,Diabetes,285,293,4.5,6.6741416186411655,79,0,0,Adult,1,Male,Dataset
+Glipizide,Diabetes,109,314,3.2,7.051090384929822,82,0,0,Senior,0,Female,Dataset
+Diclofenac,Pain,186,232,3.4,6.89475411658235,98,0,1,Child,0,Male,Dataset
+Salbutamol,Asthma,88,68,2.0,5.064678861419917,79,0,0,Senior,0,Female,Dataset
+Atenolol,Blood Pressure,266,174,3.3,8.366469940828187,82,1,0,Adult,1,Female,Dataset
+Amlodipine,Blood Pressure,93,76,3.0,6.096216482261756,60,1,0,Child,0,Female,Dataset
+Cetirizine,Allergy,283,135,1.5,6.049856462396127,89,1,1,Child,0,Female,Dataset
+Loratadine,Allergy,253,111,1.2,8.871655212724116,60,0,1,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,315,197,3.0,6.0326452089543,81,1,0,Adult,0,Female,Dataset
+Fexofenadine,Allergy,217,274,2.2,8.032821192990175,65,1,1,Senior,1,Male,Dataset
+Dapagliflozin,Diabetes,391,173,2.4,5.032222014589466,87,1,0,Child,1,Female,Dataset
+Aspirin,Fever,323,138,3.0,7.777511938307768,93,1,0,Adult,0,Female,Dataset
+Naproxen,Pain,99,202,2.1,6.846779064297882,74,0,0,Child,0,Male,Dataset
+Cetirizine,Allergy,247,210,1.5,5.079537819937425,89,0,1,Child,1,Female,Dataset
+Budesonide,Asthma,317,77,1.8,6.827432777561306,98,1,0,Adult,1,Female,Dataset
+Ibuprofen,Pain,215,103,2.7,8.147532249644515,69,0,1,Child,0,Female,Dataset
+Diclofenac,Pain,176,184,3.4,8.742097734530434,76,0,1,Senior,0,Female,Dataset
+Metformin,Diabetes,80,187,3.9,7.103835684482103,97,1,1,Child,0,Female,Dataset
+Paracetamol,Fever,116,219,1.0,8.308861611388174,89,1,0,Adult,1,Male,Dataset
+Paracetamol,Fever,302,258,1.0,8.980413015914108,79,0,0,Adult,1,Male,Dataset
+Amlodipine,Blood Pressure,86,286,3.0,8.236832635291277,78,1,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,394,90,3.0,5.626486873061371,87,0,0,Senior,1,Male,Dataset
+Budesonide,Asthma,268,131,1.8,6.3673549251916395,82,1,1,Adult,1,Female,Dataset
+Ibuprofen,Pain,95,112,2.7,6.9560700500120545,66,1,1,Child,0,Male,Dataset
+Losartan,Blood Pressure,369,138,2.2,6.157164902306394,85,1,0,Child,0,Male,Dataset
+Budesonide,Asthma,217,328,1.8,7.6724446537661635,88,0,0,Adult,1,Male,Dataset
+Naproxen,Pain,372,299,2.1,7.167236539977241,92,1,0,Senior,1,Female,Dataset
+Fexofenadine,Allergy,150,235,2.2,8.223549799149467,84,0,0,Senior,1,Male,Dataset
+Aspirin,Fever,84,117,3.0,8.443064578989452,84,1,0,Senior,1,Male,Dataset
+Loratadine,Allergy,342,314,1.2,6.241969589780272,68,1,1,Senior,1,Female,Dataset
+Budesonide,Asthma,258,163,1.8,5.887867908518107,90,0,0,Senior,1,Male,Dataset
+Fexofenadine,Allergy,80,159,2.2,8.567123307281683,97,0,0,Adult,1,Male,Dataset
+Telmisartan,Blood Pressure,233,52,2.3,6.299271906516626,94,0,0,Child,1,Female,Dataset
+Metformin,Diabetes,208,184,3.9,7.428528284625402,94,1,1,Adult,1,Female,Dataset
+Metformin,Diabetes,341,102,3.9,7.001066109692575,66,1,0,Adult,0,Female,Dataset
+Telmisartan,Blood Pressure,313,101,2.3,7.614666571629815,91,0,1,Child,0,Female,Dataset
+Glipizide,Diabetes,318,200,3.2,8.349402615599455,84,0,0,Senior,0,Female,Dataset
+Fexofenadine,Allergy,332,159,2.2,7.444326360007637,74,1,0,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,145,55,2.4,5.606782208404443,76,0,0,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,125,328,2.4,8.956508857132162,77,0,1,Senior,1,Male,Dataset
+Fexofenadine,Allergy,289,69,2.2,6.377178447542693,75,0,1,Adult,1,Male,Dataset
+Glipizide,Diabetes,364,339,3.2,7.501912916208433,64,0,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,117,188,2.4,6.507433117298404,81,0,0,Child,1,Female,Dataset
+Losartan,Blood Pressure,336,268,2.2,7.644091607173072,74,0,1,Child,0,Female,Dataset
+Insulin,Diabetes,178,55,4.5,7.664344839212538,74,1,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,188,196,3.0,7.166539880253094,97,0,1,Child,1,Female,Dataset
+Loratadine,Allergy,341,101,1.2,7.971458900121974,78,1,1,Child,0,Female,Dataset
+Fexofenadine,Allergy,347,79,2.2,5.475163389608411,87,1,1,Adult,0,Female,Dataset
+Salbutamol,Asthma,177,193,2.0,6.693411645060369,73,0,0,Child,1,Female,Dataset
+Paracetamol,Fever,164,140,1.0,6.114494482495381,72,1,0,Senior,0,Female,Dataset
+Budesonide,Asthma,211,244,1.8,5.334064816737127,84,0,1,Senior,1,Female,Dataset
+Cetirizine,Allergy,358,57,1.5,7.773701042342902,99,1,0,Child,1,Female,Dataset
+Metformin,Diabetes,131,52,3.9,6.0239577685844505,66,1,1,Adult,1,Female,Dataset
+Paracetamol,Fever,347,326,1.0,5.824039191126819,86,1,0,Adult,1,Male,Dataset
+Ibuprofen,Fever,395,73,2.7,5.699743566911162,90,0,0,Senior,1,Female,Dataset
+Amlodipine,Blood Pressure,350,282,3.0,8.788295771334393,65,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,92,108,3.2,6.975930823476941,96,1,1,Adult,1,Female,Dataset
+Paracetamol,Fever,283,194,1.0,7.958424515912419,84,0,1,Senior,1,Female,Dataset
+Budesonide,Asthma,326,131,1.8,8.326423642084768,79,1,0,Child,1,Female,Dataset
+Fexofenadine,Allergy,311,164,2.2,5.4164472632046845,95,0,0,Adult,0,Male,Dataset
+Metformin,Diabetes,88,290,3.9,7.690905075426281,79,1,0,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,102,326,3.3,7.614984564940066,83,0,0,Child,1,Male,Dataset
+Ibuprofen,Fever,150,58,2.7,5.147756245968933,73,1,0,Senior,0,Female,Dataset
+Atenolol,Blood Pressure,357,100,3.3,7.310245622165235,78,0,1,Child,0,Female,Dataset
+Naproxen,Pain,320,119,2.1,7.9959960432539905,82,0,0,Adult,0,Male,Dataset
+Metformin,Diabetes,383,271,3.9,6.8083714672702484,71,0,1,Child,1,Male,Dataset
+Fexofenadine,Allergy,376,216,2.2,5.055887754974411,99,0,1,Adult,1,Male,Dataset
+Aspirin,Pain,355,125,3.0,7.890936967604983,71,0,0,Child,0,Male,Dataset
+Atenolol,Blood Pressure,379,299,3.3,7.996438339473036,90,1,0,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,302,136,2.4,8.636721928564528,81,1,0,Adult,1,Male,Dataset
+Dapagliflozin,Diabetes,299,162,2.4,5.377459371552183,99,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,285,204,3.2,7.622387479361048,98,1,0,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,198,166,2.4,7.235915400011777,70,0,1,Senior,0,Female,Dataset
+Paracetamol,Fever,188,86,1.0,5.529823947054637,70,1,1,Child,0,Female,Dataset
+Glipizide,Diabetes,139,277,3.2,5.8336618805806015,94,1,1,Adult,0,Female,Dataset
+Paracetamol,Fever,334,209,1.0,5.843870544532023,94,1,1,Child,0,Female,Dataset
+Aspirin,Pain,353,330,3.0,7.242515618116149,99,0,1,Adult,1,Female,Dataset
+Glipizide,Diabetes,386,189,3.2,8.670805530271906,66,0,1,Adult,1,Male,Dataset
+Loratadine,Allergy,318,230,1.2,6.520292482628635,85,0,1,Senior,0,Male,Dataset
+Aspirin,Fever,376,204,3.0,7.993266722345926,78,0,1,Child,0,Female,Dataset
+Salbutamol,Asthma,309,78,2.0,8.991283368622016,68,0,1,Senior,0,Male,Dataset
+Loratadine,Allergy,250,194,1.2,7.442717681246414,93,1,1,Adult,1,Female,Dataset
+Aspirin,Pain,112,325,3.0,8.483706053154016,82,1,1,Child,1,Male,Dataset
+Paracetamol,Fever,259,160,1.0,8.053721566824347,68,1,0,Adult,1,Female,Dataset
+Insulin,Diabetes,149,220,4.5,7.350878894019999,81,0,0,Child,1,Male,Dataset
+Atenolol,Blood Pressure,311,118,3.3,6.726320592049078,96,0,1,Child,1,Male,Dataset
+Glipizide,Diabetes,129,244,3.2,6.024974477546552,82,0,0,Senior,0,Male,Dataset
+Loratadine,Allergy,271,260,1.2,5.965988054764926,90,1,0,Adult,1,Male,Dataset
+Amlodipine,Blood Pressure,102,258,3.0,7.18283935922307,80,0,1,Child,0,Male,Dataset
+Paracetamol,Fever,96,348,1.0,5.559144294769569,92,1,1,Senior,1,Male,Dataset
+Ibuprofen,Fever,223,52,2.7,7.250055998773892,87,0,0,Adult,1,Female,Dataset
+Metformin,Diabetes,336,322,3.9,8.072248911804504,98,0,0,Child,0,Male,Dataset
+Aspirin,Fever,212,70,3.0,6.728779137963897,91,1,1,Child,1,Male,Dataset
+Loratadine,Allergy,248,234,1.2,8.728603694738496,92,1,1,Child,1,Male,Dataset
+Naproxen,Pain,234,124,2.1,7.058249048366578,94,1,0,Child,1,Male,Dataset
+Montelukast,Allergy,153,214,3.1,5.2573045969444365,94,0,1,Child,1,Male,Dataset
+Cetirizine,Allergy,315,53,1.5,5.823696844358553,60,1,0,Child,0,Male,Dataset
+Ibuprofen,Fever,191,60,2.7,8.774201713618465,71,1,0,Child,0,Male,Dataset
+Fexofenadine,Allergy,307,214,2.2,7.254776956999003,95,0,1,Senior,0,Male,Dataset
+Insulin,Diabetes,296,289,4.5,6.712689432927242,60,1,0,Adult,0,Male,Dataset
+Telmisartan,Blood Pressure,240,173,2.3,8.119954059475043,82,0,1,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,161,275,3.0,6.759742126175102,67,0,0,Senior,1,Female,Dataset
+Aspirin,Fever,316,60,3.0,6.483171724960231,98,0,1,Adult,0,Male,Dataset
+Insulin,Diabetes,238,138,4.5,7.513447541213413,69,0,0,Senior,1,Male,Dataset
+Aspirin,Pain,269,186,3.0,5.80546567709015,86,1,1,Senior,0,Male,Dataset
+Insulin,Diabetes,289,179,4.5,8.512451312145764,70,0,0,Senior,0,Female,Dataset
+Salbutamol,Asthma,238,176,2.0,8.573657388774034,81,0,0,Adult,1,Male,Dataset
+Atenolol,Blood Pressure,262,174,3.3,6.325456819723596,97,1,0,Senior,0,Female,Dataset
+Cetirizine,Allergy,241,181,1.5,7.104743823591556,88,0,0,Senior,0,Female,Dataset
+Paracetamol,Fever,190,151,1.0,7.199461781970666,71,1,0,Adult,1,Male,Dataset
+Montelukast,Allergy,248,286,3.1,7.093697265275598,93,0,0,Child,0,Female,Dataset
+Losartan,Blood Pressure,138,306,2.2,6.992301887774683,62,1,0,Senior,0,Male,Dataset
+Aspirin,Fever,279,221,3.0,6.60347961736063,63,1,1,Child,1,Female,Dataset
+Losartan,Blood Pressure,91,142,2.2,6.533627157379664,78,1,1,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,283,138,3.0,6.6449509585221165,89,0,1,Senior,1,Male,Dataset
+Cetirizine,Allergy,222,178,1.5,8.572761840479524,68,0,1,Adult,1,Male,Dataset
+Paracetamol,Fever,185,129,1.0,8.978701374213363,69,0,0,Child,0,Female,Dataset
+Fexofenadine,Allergy,124,53,2.2,7.959882267090167,83,0,1,Child,0,Female,Dataset
+Salbutamol,Asthma,393,91,2.0,7.37382498641271,77,0,0,Child,1,Female,Dataset
+Loratadine,Allergy,166,217,1.2,7.769309339006906,80,0,1,Adult,1,Male,Dataset
+Ibuprofen,Pain,324,321,2.7,7.612656669154971,68,0,0,Senior,1,Female,Dataset
+Aspirin,Pain,212,191,3.0,6.3612214967774,95,0,0,Senior,0,Female,Dataset
+Montelukast,Allergy,184,73,3.1,6.669896734361108,82,1,0,Senior,0,Female,Dataset
+Telmisartan,Blood Pressure,291,211,2.3,6.914705368493957,70,1,0,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,377,218,3.0,5.677719260887347,88,1,0,Adult,0,Male,Dataset
+Budesonide,Asthma,148,134,1.8,8.696464341069522,79,1,0,Child,1,Female,Dataset
+Metformin,Diabetes,326,145,3.9,6.149426755005315,86,1,1,Child,1,Male,Dataset
+Fexofenadine,Allergy,250,158,2.2,5.501693802457979,75,1,1,Senior,1,Female,Dataset
+Budesonide,Asthma,122,279,1.8,8.816332462444244,67,0,1,Adult,0,Male,Dataset
+Diclofenac,Pain,267,68,3.4,5.635486049234572,66,0,1,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,290,100,3.0,5.935995780099699,81,0,1,Senior,0,Male,Dataset
+Budesonide,Asthma,136,133,1.8,7.718695474497071,77,0,1,Senior,1,Male,Dataset
+Montelukast,Allergy,130,108,3.1,8.390671811550636,69,1,0,Adult,0,Male,Dataset
+Salbutamol,Asthma,97,154,2.0,7.938281006227836,82,0,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,265,121,3.0,6.631162048634488,87,0,1,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,210,54,3.0,5.509520484089073,71,0,0,Adult,0,Female,Dataset
+Metformin,Diabetes,151,291,3.9,7.083943218283599,75,0,0,Senior,1,Female,Dataset
+Salbutamol,Asthma,372,200,2.0,7.452839725618045,94,1,1,Senior,1,Male,Dataset
+Ibuprofen,Fever,259,71,2.7,7.810877763578125,91,1,1,Adult,1,Female,Dataset
+Losartan,Blood Pressure,266,173,2.2,6.096316747236598,91,1,0,Adult,1,Female,Dataset
+Montelukast,Allergy,379,185,3.1,8.910257484245065,67,0,1,Senior,0,Male,Dataset
+Naproxen,Pain,358,266,2.1,8.772624503743437,68,1,1,Adult,0,Female,Dataset
+Budesonide,Asthma,380,303,1.8,8.897947402945597,64,1,1,Child,1,Female,Dataset
+Cetirizine,Allergy,229,94,1.5,8.88574642147885,78,0,0,Senior,1,Female,Dataset
+Amlodipine,Blood Pressure,162,179,3.0,8.641030708649,87,1,1,Adult,0,Female,Dataset
+Salbutamol,Asthma,377,212,2.0,6.68759354922739,88,0,1,Senior,1,Male,Dataset
+Fexofenadine,Allergy,159,201,2.2,6.3064601184885145,64,0,1,Adult,0,Male,Dataset
+Metformin,Diabetes,185,82,3.9,7.080574552098481,69,0,0,Senior,1,Male,Dataset
+Aspirin,Fever,252,103,3.0,8.35884464506141,79,1,0,Adult,1,Female,Dataset
+Insulin,Diabetes,130,304,4.5,7.376442924060849,83,0,1,Child,1,Female,Dataset
+Ibuprofen,Fever,392,308,2.7,8.263671235207873,63,1,1,Senior,1,Female,Dataset
+Budesonide,Asthma,314,129,1.8,7.929165894123219,97,0,0,Senior,1,Female,Dataset
+Loratadine,Allergy,206,273,1.2,5.697212547067201,84,0,0,Child,0,Female,Dataset
+Aspirin,Pain,113,308,3.0,5.193727350768487,95,0,1,Adult,0,Female,Dataset
+Naproxen,Pain,279,79,2.1,8.379037718427389,64,1,0,Senior,0,Male,Dataset
+Glipizide,Diabetes,374,138,3.2,8.411983438569559,69,1,1,Child,0,Male,Dataset
+Ibuprofen,Pain,113,62,2.7,7.089898973721192,86,1,1,Senior,0,Male,Dataset
+Ibuprofen,Pain,237,341,2.7,5.514742081774251,89,0,1,Senior,0,Female,Dataset
+Montelukast,Asthma,392,254,3.1,6.851281643283422,95,1,1,Child,1,Female,Dataset
+Paracetamol,Fever,135,322,1.0,7.173258801242205,89,0,0,Child,0,Female,Dataset
+Ibuprofen,Pain,227,269,2.7,8.033621637954454,68,1,0,Senior,0,Male,Dataset
+Aspirin,Fever,385,161,3.0,5.029690848251377,84,0,1,Adult,0,Female,Dataset
+Fexofenadine,Allergy,119,228,2.2,7.4921201630554375,69,0,1,Senior,1,Male,Dataset
+Cetirizine,Allergy,289,103,1.5,7.304451255522938,61,1,0,Child,0,Female,Dataset
+Montelukast,Asthma,293,210,3.1,6.274646865862167,94,0,1,Child,0,Male,Dataset
+Metformin,Diabetes,229,77,3.9,5.805996590776575,82,0,1,Child,1,Female,Dataset
+Metformin,Diabetes,309,57,3.9,7.099538672065549,79,1,0,Child,0,Male,Dataset
+Paracetamol,Fever,177,339,1.0,6.7692808928996415,80,1,0,Adult,0,Female,Dataset
+Aspirin,Fever,222,274,3.0,5.389355670952558,65,0,1,Adult,1,Female,Dataset
+Aspirin,Pain,305,173,3.0,7.6737053547759855,65,1,1,Child,0,Female,Dataset
+Naproxen,Pain,177,304,2.1,8.674447072709246,97,0,0,Senior,1,Male,Dataset
+Diclofenac,Pain,206,268,3.4,8.403029193019627,96,1,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,220,208,3.0,6.791949358548399,82,1,0,Senior,1,Female,Dataset
+Ibuprofen,Pain,240,241,2.7,6.983147896565631,73,1,1,Senior,1,Male,Dataset
+Diclofenac,Pain,226,329,3.4,6.683064930263297,71,0,0,Adult,0,Female,Dataset
+Glipizide,Diabetes,122,163,3.2,5.986622019278969,70,1,0,Senior,0,Female,Dataset
+Ibuprofen,Pain,332,210,2.7,6.731467428508772,60,1,0,Senior,1,Male,Dataset
+Losartan,Blood Pressure,125,331,2.2,6.258665413819199,94,1,0,Child,0,Male,Dataset
+Metformin,Diabetes,366,303,3.9,5.415507710467075,88,1,1,Child,0,Male,Dataset
+Paracetamol,Fever,312,292,1.0,8.083535837791612,85,0,1,Adult,1,Female,Dataset
+Ibuprofen,Fever,345,230,2.7,5.820326385032814,89,1,1,Child,1,Female,Dataset
+Fexofenadine,Allergy,245,309,2.2,5.832475520330913,84,0,1,Senior,0,Female,Dataset
+Paracetamol,Fever,393,125,1.0,5.710370185424673,64,1,0,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,180,171,3.3,6.864989567384594,91,1,0,Senior,0,Male,Dataset
+Loratadine,Allergy,365,195,1.2,6.983212653798089,82,0,0,Child,1,Female,Dataset
+Dapagliflozin,Diabetes,312,331,2.4,7.650174135260043,89,0,1,Adult,1,Male,Dataset
+Metformin,Diabetes,158,209,3.9,5.427013314309253,94,1,1,Senior,1,Male,Dataset
+Aspirin,Fever,148,214,3.0,6.046902778726992,89,0,0,Child,1,Female,Dataset
+Aspirin,Fever,170,164,3.0,8.255420294631486,86,1,0,Adult,1,Female,Dataset
+Montelukast,Asthma,196,282,3.1,6.15288372732085,93,1,1,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,348,220,3.0,5.868617083990003,73,1,1,Adult,0,Female,Dataset
+Ibuprofen,Fever,139,166,2.7,7.546632817919733,66,0,0,Adult,0,Male,Dataset
+Cetirizine,Allergy,263,200,1.5,6.808629303044753,62,1,1,Child,1,Male,Dataset
+Dapagliflozin,Diabetes,169,280,2.4,7.158385567456216,64,0,1,Adult,0,Male,Dataset
+Atenolol,Blood Pressure,219,117,3.3,7.48033885128541,60,0,1,Adult,0,Male,Dataset
+Budesonide,Asthma,252,348,1.8,8.77307687030681,99,1,0,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,94,315,2.4,6.70178442782043,93,0,1,Senior,1,Male,Dataset
+Paracetamol,Fever,132,297,1.0,6.925064854863196,92,1,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,399,169,3.0,7.701231366399956,62,1,0,Senior,0,Male,Dataset
+Loratadine,Allergy,271,195,1.2,8.785384779412379,62,0,0,Adult,1,Male,Dataset
+Metformin,Diabetes,161,107,3.9,6.195943879829499,83,0,0,Adult,0,Male,Dataset
+Loratadine,Allergy,153,272,1.2,6.419858923862278,60,1,0,Senior,1,Female,Dataset
+Montelukast,Asthma,319,236,3.1,6.084997823909887,95,0,0,Child,0,Female,Dataset
+Aspirin,Fever,298,300,3.0,8.97518533945778,99,1,1,Adult,1,Female,Dataset
+Montelukast,Asthma,362,278,3.1,6.482575296819293,79,1,1,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,282,136,3.0,5.287892427072157,98,1,1,Senior,1,Female,Dataset
+Paracetamol,Fever,105,268,1.0,7.748092759081741,68,0,0,Child,0,Male,Dataset
+Ibuprofen,Pain,363,264,2.7,8.39592712928409,60,0,0,Senior,1,Female,Dataset
+Dapagliflozin,Diabetes,301,63,2.4,5.087125282057092,77,0,0,Senior,1,Male,Dataset
+Diclofenac,Pain,370,136,3.4,7.64954777861802,85,0,0,Child,0,Female,Dataset
+Diclofenac,Pain,117,289,3.4,7.555207035010937,83,1,0,Adult,0,Male,Dataset
+Aspirin,Fever,97,336,3.0,8.192578215370121,97,1,0,Adult,0,Male,Dataset
+Aspirin,Fever,138,180,3.0,7.781149075746617,89,0,0,Senior,1,Male,Dataset
+Montelukast,Allergy,244,275,3.1,8.46456698992967,92,0,1,Child,0,Male,Dataset
+Ibuprofen,Fever,361,265,2.7,8.282315568597307,68,0,1,Senior,1,Male,Dataset
+Paracetamol,Fever,373,136,1.0,6.178862371805245,89,1,1,Senior,1,Female,Dataset
+Ibuprofen,Fever,307,298,2.7,6.680140083189407,63,1,1,Child,0,Female,Dataset
+Ibuprofen,Fever,334,315,2.7,5.557932417508564,60,0,1,Child,1,Male,Dataset
+Fexofenadine,Allergy,216,167,2.2,8.07273194193719,64,1,1,Adult,1,Male,Dataset
+Aspirin,Pain,393,240,3.0,7.18229779116475,84,1,1,Senior,1,Female,Dataset
+Amlodipine,Blood Pressure,155,307,3.0,7.224443808342567,67,1,0,Child,1,Male,Dataset
+Losartan,Blood Pressure,268,125,2.2,5.708414424468976,98,1,1,Adult,1,Male,Dataset
+Montelukast,Asthma,156,222,3.1,7.765512449712341,89,1,1,Child,1,Female,Dataset
+Fexofenadine,Allergy,105,158,2.2,5.938045512589861,66,0,1,Adult,1,Female,Dataset
+Budesonide,Asthma,389,238,1.8,7.909613316626787,68,0,1,Child,1,Female,Dataset
+Ibuprofen,Fever,112,63,2.7,5.4192102500580805,93,0,1,Child,1,Male,Dataset
+Diclofenac,Pain,198,71,3.4,7.278647671614491,79,0,1,Adult,0,Male,Dataset
+Ibuprofen,Fever,165,126,2.7,5.679107059105794,72,0,1,Adult,1,Male,Dataset
+Aspirin,Pain,216,277,3.0,5.790189299973484,95,0,1,Senior,0,Male,Dataset
+Diclofenac,Pain,179,114,3.4,8.126169732744497,81,1,1,Adult,0,Male,Dataset
+Dapagliflozin,Diabetes,373,136,2.4,8.531302273627334,87,1,0,Senior,0,Male,Dataset
+Paracetamol,Fever,364,109,1.0,5.441406834244192,80,0,1,Adult,1,Male,Dataset
+Cetirizine,Allergy,257,263,1.5,7.932183566830002,83,0,0,Senior,0,Female,Dataset
+Salbutamol,Asthma,106,59,2.0,5.469587689218125,72,1,0,Adult,1,Male,Dataset
+Aspirin,Pain,110,213,3.0,8.029850291434128,60,0,1,Child,1,Male,Dataset
+Paracetamol,Fever,235,220,1.0,8.481531895929454,62,1,0,Senior,0,Female,Dataset
+Budesonide,Asthma,119,348,1.8,5.501186539648609,89,0,0,Senior,0,Male,Dataset
+Montelukast,Asthma,346,276,3.1,5.963439094767024,71,1,1,Senior,1,Female,Dataset
+Montelukast,Allergy,302,200,3.1,8.98042510996881,80,1,1,Senior,1,Male,Dataset
+Aspirin,Pain,215,110,3.0,5.734666470483054,79,1,1,Senior,0,Male,Dataset
+Losartan,Blood Pressure,201,109,2.2,6.70774939772481,70,1,1,Child,0,Male,Dataset
+Cetirizine,Allergy,195,320,1.5,5.156331018542557,71,0,0,Child,1,Male,Dataset
+Salbutamol,Asthma,338,271,2.0,7.7009584809725995,93,1,1,Senior,1,Male,Dataset
+Metformin,Diabetes,317,204,3.9,8.125444807120473,88,1,0,Adult,1,Female,Dataset
+Insulin,Diabetes,176,157,4.5,5.498799485551227,96,0,0,Senior,0,Female,Dataset
+Glipizide,Diabetes,365,265,3.2,8.665422577021666,80,1,1,Child,0,Male,Dataset
+Glipizide,Diabetes,199,131,3.2,6.133369581149552,80,0,1,Senior,0,Male,Dataset
+Losartan,Blood Pressure,225,299,2.2,7.785606691624036,65,1,1,Adult,0,Male,Dataset
+Salbutamol,Asthma,179,112,2.0,6.704385119571382,60,0,0,Adult,1,Female,Dataset
+Dapagliflozin,Diabetes,342,88,2.4,8.255599356889585,77,0,0,Senior,1,Female,Dataset
+Loratadine,Allergy,376,163,1.2,8.944718877145219,93,1,1,Child,0,Male,Dataset
+Telmisartan,Blood Pressure,229,142,2.3,8.164729051875508,96,1,1,Child,0,Female,Dataset
+Amlodipine,Blood Pressure,101,212,3.0,7.573964857590235,97,0,1,Senior,1,Female,Dataset
+Loratadine,Allergy,338,119,1.2,6.921225577210745,96,0,1,Adult,0,Male,Dataset
+Montelukast,Allergy,271,110,3.1,8.469290445331744,73,1,0,Child,0,Male,Dataset
+Dapagliflozin,Diabetes,354,250,2.4,5.101144421321294,97,1,1,Child,1,Male,Dataset
+Salbutamol,Asthma,132,201,2.0,6.5520340757285584,88,1,1,Adult,0,Male,Dataset
+Montelukast,Allergy,179,84,3.1,7.109031555398497,97,0,0,Child,0,Female,Dataset
+Amlodipine,Blood Pressure,395,256,3.0,6.58873080438975,79,1,1,Senior,0,Female,Dataset
+Telmisartan,Blood Pressure,344,134,2.3,8.637913830187806,93,0,0,Adult,1,Female,Dataset
+Naproxen,Pain,209,313,2.1,5.1203637576463485,61,0,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,274,216,3.3,8.780527655772685,90,1,0,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,175,345,3.0,5.100018765299793,92,0,1,Adult,1,Male,Dataset
+Ibuprofen,Fever,166,291,2.7,7.032203980150895,61,0,1,Senior,0,Male,Dataset
+Cetirizine,Allergy,240,227,1.5,8.38842048225418,92,1,0,Adult,1,Female,Dataset
+Loratadine,Allergy,364,143,1.2,6.061739096631463,83,0,0,Adult,0,Female,Dataset
+Loratadine,Allergy,103,233,1.2,5.798095445546855,72,0,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,96,202,2.4,5.928218373051186,76,1,1,Child,1,Female,Dataset
+Glipizide,Diabetes,367,238,3.2,5.94435607469549,67,1,0,Senior,1,Male,Dataset
+Diclofenac,Pain,240,334,3.4,5.342344347870371,64,1,0,Adult,1,Male,Dataset
+Loratadine,Allergy,275,165,1.2,8.60373740322492,66,0,0,Adult,0,Female,Dataset
+Montelukast,Asthma,245,96,3.1,7.772414561624139,75,0,0,Adult,1,Male,Dataset
+Dapagliflozin,Diabetes,380,257,2.4,5.984407160531854,65,1,0,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,177,208,3.0,6.707532044238531,67,0,1,Child,1,Female,Dataset
+Insulin,Diabetes,317,331,4.5,8.484367481448093,62,1,1,Adult,0,Female,Dataset
+Aspirin,Pain,192,97,3.0,6.789058886266563,97,1,1,Adult,1,Male,Dataset
+Montelukast,Asthma,193,76,3.1,8.713264698033868,84,0,1,Senior,0,Male,Dataset
+Budesonide,Asthma,292,291,1.8,7.52380329377831,65,0,0,Child,1,Female,Dataset
+Naproxen,Pain,113,227,2.1,7.851742861088791,70,0,0,Senior,1,Female,Dataset
+Insulin,Diabetes,277,134,4.5,6.790484532760766,75,0,1,Adult,0,Female,Dataset
+Insulin,Diabetes,319,331,4.5,7.1395420224579755,86,0,1,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,211,122,3.0,8.990155419653838,80,0,0,Adult,1,Male,Dataset
+Budesonide,Asthma,388,304,1.8,5.1825015312521305,63,1,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,390,67,2.4,8.508860970537432,71,0,0,Senior,0,Male,Dataset
+Naproxen,Pain,113,116,2.1,6.329857169327786,84,0,0,Child,0,Female,Dataset
+Aspirin,Fever,159,129,3.0,8.74968600874183,62,0,0,Adult,0,Female,Dataset
+Cetirizine,Allergy,344,95,1.5,8.451900832056372,97,0,1,Adult,0,Female,Dataset
+Aspirin,Fever,332,76,3.0,7.004408564982864,73,0,1,Child,0,Female,Dataset
+Aspirin,Pain,247,253,3.0,5.437151912341763,92,0,1,Senior,1,Female,Dataset
+Montelukast,Asthma,395,156,3.1,6.054080055567555,84,1,0,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,128,302,2.4,8.428816208867216,86,1,1,Adult,1,Male,Dataset
+Loratadine,Allergy,283,97,1.2,8.10642982261575,94,1,1,Child,1,Male,Dataset
+Budesonide,Asthma,174,330,1.8,7.852375505097704,84,1,0,Senior,1,Female,Dataset
+Losartan,Blood Pressure,374,160,2.2,5.6276127957786475,86,1,1,Adult,1,Female,Dataset
+Montelukast,Asthma,317,118,3.1,7.7476098575468,84,1,1,Child,1,Male,Dataset
+Cetirizine,Allergy,318,207,1.5,6.889573007381506,91,0,1,Child,1,Male,Dataset
+Paracetamol,Fever,81,77,1.0,5.834290284193216,79,0,1,Adult,1,Female,Dataset
+Insulin,Diabetes,121,153,4.5,7.48405271762828,65,1,0,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,84,323,3.0,8.569534315192449,94,1,0,Senior,0,Female,Dataset
+Montelukast,Allergy,225,322,3.1,6.331189887339967,77,1,1,Adult,0,Female,Dataset
+Paracetamol,Fever,132,322,1.0,8.933687598661429,65,1,1,Child,0,Female,Dataset
+Metformin,Diabetes,149,229,3.9,7.140908332202452,73,1,1,Senior,1,Male,Dataset
+Cetirizine,Allergy,315,246,1.5,5.0425957174509515,82,1,0,Child,0,Male,Dataset
+Ibuprofen,Fever,279,218,2.7,8.428903376173306,60,1,0,Child,0,Male,Dataset
+Fexofenadine,Allergy,312,118,2.2,6.882770245546769,69,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,280,304,3.2,7.113554584194095,65,0,1,Senior,1,Male,Dataset
+Montelukast,Asthma,335,134,3.1,8.65346350184037,66,1,0,Senior,0,Female,Dataset
+Losartan,Blood Pressure,131,192,2.2,5.1405275766827945,86,1,0,Senior,1,Male,Dataset
+Budesonide,Asthma,357,227,1.8,8.199665586888296,62,0,1,Adult,1,Male,Dataset
+Dapagliflozin,Diabetes,320,301,2.4,7.765099315695917,81,0,0,Senior,1,Male,Dataset
+Montelukast,Asthma,147,288,3.1,8.74184856521616,62,0,0,Adult,0,Male,Dataset
+Aspirin,Fever,337,268,3.0,7.451659501788627,83,0,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,202,222,3.0,7.972555809360217,74,0,1,Child,0,Female,Dataset
+Telmisartan,Blood Pressure,193,288,2.3,8.957065215544826,64,1,1,Adult,1,Male,Dataset
+Paracetamol,Fever,269,122,1.0,5.793609569890156,96,1,1,Adult,0,Male,Dataset
+Aspirin,Fever,334,270,3.0,6.266603981953314,68,0,0,Senior,0,Male,Dataset
+Salbutamol,Asthma,365,103,2.0,5.43956064574944,80,1,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,316,85,3.0,5.3356591924494445,66,0,0,Adult,0,Female,Dataset
+Salbutamol,Asthma,363,85,2.0,6.911737870915141,69,0,1,Senior,0,Male,Dataset
+Ibuprofen,Fever,168,164,2.7,8.572390202440156,96,1,0,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,295,279,3.3,5.237976814267217,94,0,0,Adult,1,Female,Dataset
+Salbutamol,Asthma,244,300,2.0,8.858182894923923,73,1,1,Senior,0,Male,Dataset
+Salbutamol,Asthma,264,303,2.0,5.139103450823956,78,0,0,Senior,1,Female,Dataset
+Glipizide,Diabetes,99,80,3.2,8.60295114960591,65,1,1,Child,1,Female,Dataset
+Fexofenadine,Allergy,241,58,2.2,6.356098484427186,73,0,1,Senior,1,Male,Dataset
+Diclofenac,Pain,132,215,3.4,8.3893391461483,95,0,0,Child,0,Female,Dataset
+Paracetamol,Fever,84,179,1.0,6.108080162952019,96,0,1,Adult,1,Male,Dataset
+Budesonide,Asthma,248,253,1.8,8.576125240172768,61,0,1,Senior,1,Female,Dataset
+Diclofenac,Pain,169,54,3.4,6.214452520989286,71,1,0,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,132,155,3.0,5.73691399170678,64,1,0,Senior,0,Female,Dataset
+Diclofenac,Pain,80,90,3.4,5.744953482428526,97,0,1,Senior,0,Male,Dataset
+Montelukast,Allergy,147,267,3.1,5.999713098050854,79,0,1,Senior,1,Male,Dataset
+Losartan,Blood Pressure,136,120,2.2,8.91325832530349,83,0,0,Adult,1,Male,Dataset
+Paracetamol,Fever,374,294,1.0,7.84295400712182,80,0,0,Senior,1,Male,Dataset
+Metformin,Diabetes,96,183,3.9,5.380764455614381,79,1,0,Adult,1,Female,Dataset
+Telmisartan,Blood Pressure,253,159,2.3,6.832267568986056,89,0,1,Child,1,Male,Dataset
+Aspirin,Pain,220,207,3.0,5.691740648353721,91,0,0,Adult,1,Male,Dataset
+Montelukast,Allergy,187,213,3.1,7.286951775155707,87,1,0,Child,0,Female,Dataset
+Aspirin,Fever,354,145,3.0,8.802509981093365,83,0,0,Child,1,Male,Dataset
+Paracetamol,Fever,94,192,1.0,8.411599650812411,64,0,1,Child,0,Male,Dataset
+Loratadine,Allergy,259,203,1.2,6.281830330398409,86,1,1,Adult,1,Female,Dataset
+Aspirin,Pain,383,119,3.0,6.454880690912624,93,0,0,Child,1,Male,Dataset
+Salbutamol,Asthma,202,57,2.0,6.559950466148839,95,1,1,Child,0,Male,Dataset
+Salbutamol,Asthma,277,73,2.0,6.570615697594679,81,0,0,Senior,0,Female,Dataset
+Naproxen,Pain,353,258,2.1,6.277627030988075,79,1,0,Child,0,Female,Dataset
+Fexofenadine,Allergy,304,108,2.2,8.494126110521373,93,1,1,Child,0,Female,Dataset
+Paracetamol,Fever,210,215,1.0,7.029673364945183,81,0,0,Child,1,Male,Dataset
+Loratadine,Allergy,371,52,1.2,5.238122995176591,72,1,1,Senior,1,Male,Dataset
+Metformin,Diabetes,144,185,3.9,7.044634057471789,90,1,1,Senior,1,Female,Dataset
+Montelukast,Asthma,184,55,3.1,6.885944764946845,87,1,1,Senior,1,Female,Dataset
+Insulin,Diabetes,210,115,4.5,8.670620972729267,90,0,0,Senior,0,Male,Dataset
+Aspirin,Fever,362,102,3.0,7.356166191451718,86,1,1,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,151,132,3.3,5.94934549121281,96,0,1,Adult,1,Male,Dataset
+Diclofenac,Pain,174,88,3.4,6.505142382514537,61,0,0,Senior,1,Female,Dataset
+Budesonide,Asthma,162,77,1.8,6.964247641928803,75,0,0,Child,0,Female,Dataset
+Montelukast,Allergy,329,183,3.1,7.977745917779252,85,1,0,Adult,0,Female,Dataset
+Montelukast,Asthma,329,311,3.1,6.752581446316789,64,0,0,Senior,0,Female,Dataset
+Cetirizine,Allergy,184,104,1.5,5.046486810115892,89,0,1,Adult,1,Female,Dataset
+Dapagliflozin,Diabetes,233,143,2.4,6.578850099908811,82,1,1,Child,0,Male,Dataset
+Naproxen,Pain,190,218,2.1,6.049743529113645,74,0,0,Senior,0,Male,Dataset
+Montelukast,Allergy,334,194,3.1,8.177714852187467,96,0,1,Senior,0,Male,Dataset
+Budesonide,Asthma,152,105,1.8,8.981545869200744,99,1,1,Child,0,Male,Dataset
+Montelukast,Asthma,228,82,3.1,6.108302391375917,74,1,0,Senior,0,Female,Dataset
+Fexofenadine,Allergy,320,171,2.2,5.306911961240092,85,0,1,Senior,0,Female,Dataset
+Paracetamol,Fever,261,53,1.0,6.866947731030211,81,1,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,95,252,2.4,7.837296333224446,65,0,0,Senior,0,Male,Dataset
+Naproxen,Pain,264,300,2.1,7.615915513256149,88,0,1,Senior,1,Female,Dataset
+Losartan,Blood Pressure,348,109,2.2,6.035681221179063,86,1,0,Senior,1,Female,Dataset
+Losartan,Blood Pressure,352,122,2.2,7.644665775767086,85,0,0,Child,0,Male,Dataset
+Paracetamol,Fever,222,256,1.0,6.1908293224950715,72,0,1,Senior,0,Male,Dataset
+Atenolol,Blood Pressure,289,164,3.3,8.790526755850255,82,0,0,Senior,0,Male,Dataset
+Salbutamol,Asthma,184,276,2.0,8.983106244175673,69,1,1,Child,0,Male,Dataset
+Insulin,Diabetes,123,299,4.5,8.790975885974547,72,1,0,Adult,1,Male,Dataset
+Atenolol,Blood Pressure,128,63,3.3,8.601866911627997,75,1,0,Child,0,Male,Dataset
+Diclofenac,Pain,95,105,3.4,7.584184855769893,81,0,1,Child,1,Female,Dataset
+Loratadine,Allergy,396,320,1.2,5.102595297744804,83,1,1,Senior,1,Male,Dataset
+Budesonide,Asthma,93,75,1.8,8.114005196076226,63,1,0,Senior,1,Female,Dataset
+Montelukast,Allergy,115,269,3.1,5.649571176754689,88,1,1,Senior,1,Female,Dataset
+Dapagliflozin,Diabetes,325,193,2.4,5.54406133597479,76,0,1,Adult,1,Female,Dataset
+Dapagliflozin,Diabetes,86,103,2.4,7.958930434283507,94,1,1,Adult,1,Female,Dataset
+Ibuprofen,Pain,330,168,2.7,5.380199044291757,65,1,1,Senior,1,Male,Dataset
+Aspirin,Fever,108,321,3.0,5.202760454813747,84,0,1,Senior,1,Female,Dataset
+Insulin,Diabetes,91,268,4.5,6.085378407645976,98,1,1,Child,1,Male,Dataset
+Budesonide,Asthma,207,309,1.8,6.678040564573672,87,1,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,352,237,2.4,5.571898578675623,68,0,1,Senior,1,Male,Dataset
+Ibuprofen,Pain,151,154,2.7,8.932777042924812,92,1,1,Adult,1,Female,Dataset
+Montelukast,Allergy,111,186,3.1,6.184409612469088,83,0,1,Senior,1,Female,Dataset
+Amlodipine,Blood Pressure,279,212,3.0,8.745933665212332,71,1,1,Child,0,Female,Dataset
+Budesonide,Asthma,381,140,1.8,8.357256023981817,86,0,0,Senior,1,Male,Dataset
+Losartan,Blood Pressure,290,275,2.2,7.0035900191251494,97,0,1,Adult,1,Female,Dataset
+Paracetamol,Fever,399,185,1.0,5.77241035648547,81,0,0,Senior,0,Female,Dataset
+Metformin,Diabetes,341,80,3.9,6.1583951084671416,77,1,0,Child,1,Female,Dataset
+Salbutamol,Asthma,176,214,2.0,5.6181202081107715,94,0,0,Child,0,Male,Dataset
+Insulin,Diabetes,195,167,4.5,8.37297270716461,62,1,0,Child,1,Male,Dataset
+Montelukast,Asthma,157,306,3.1,6.961224835569499,87,1,0,Child,0,Male,Dataset
+Telmisartan,Blood Pressure,311,159,2.3,5.156503472647598,78,0,1,Senior,0,Male,Dataset
+Ibuprofen,Fever,175,183,2.7,5.390924141347012,93,1,1,Adult,0,Female,Dataset
+Cetirizine,Allergy,228,236,1.5,8.154572492445617,87,1,1,Adult,1,Female,Dataset
+Aspirin,Pain,144,63,3.0,6.487545806172703,86,0,1,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,354,206,3.3,7.294145683061357,72,0,1,Senior,1,Male,Dataset
+Cetirizine,Allergy,352,346,1.5,6.2439203600211695,90,1,0,Senior,0,Female,Dataset
+Montelukast,Allergy,118,147,3.1,7.146187962589678,83,0,0,Child,0,Female,Dataset
+Naproxen,Pain,243,203,2.1,5.1849618658917045,72,1,1,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,260,223,2.4,8.459084135856124,92,0,0,Senior,0,Male,Dataset
+Loratadine,Allergy,209,168,1.2,8.282521594609744,74,1,1,Child,0,Female,Dataset
+Diclofenac,Pain,333,71,3.4,6.446166998994379,67,0,1,Senior,0,Female,Dataset
+Aspirin,Fever,378,238,3.0,8.313396323160278,85,1,1,Senior,1,Female,Dataset
+Metformin,Diabetes,223,123,3.9,7.28971210066662,60,1,1,Adult,0,Female,Dataset
+Paracetamol,Fever,251,172,1.0,8.701537347524805,68,0,1,Child,1,Female,Dataset
+Aspirin,Pain,330,342,3.0,5.619995117940155,62,1,0,Senior,1,Female,Dataset
+Montelukast,Asthma,393,271,3.1,6.865997601424068,61,1,1,Adult,1,Female,Dataset
+Ibuprofen,Pain,88,218,2.7,8.764660768699558,67,0,1,Adult,0,Female,Dataset
+Montelukast,Asthma,136,347,3.1,8.075437004079772,81,1,0,Child,1,Male,Dataset
+Budesonide,Asthma,167,264,1.8,7.400805001337334,86,1,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,314,176,3.0,7.729793260456178,92,0,0,Child,1,Male,Dataset
+Dapagliflozin,Diabetes,201,323,2.4,5.824696236101392,98,0,1,Adult,0,Female,Dataset
+Telmisartan,Blood Pressure,254,203,2.3,7.082375246973804,98,1,0,Child,1,Female,Dataset
+Salbutamol,Asthma,117,259,2.0,6.310948572077372,87,1,1,Child,0,Female,Dataset
+Montelukast,Asthma,148,115,3.1,7.469610126147522,75,0,1,Child,1,Female,Dataset
+Budesonide,Asthma,247,192,1.8,8.435417810323436,68,1,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,388,248,3.0,6.325323887819296,72,1,0,Senior,1,Female,Dataset
+Montelukast,Asthma,95,256,3.1,7.912134017264232,95,1,0,Child,1,Male,Dataset
+Ibuprofen,Fever,146,267,2.7,7.140658793932904,99,0,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,220,108,3.0,5.657074399770677,93,1,1,Adult,0,Male,Dataset
+Montelukast,Allergy,136,63,3.1,5.153634833415433,60,1,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,326,148,3.0,5.778920029499886,63,1,1,Adult,1,Male,Dataset
+Naproxen,Pain,213,255,2.1,8.713483953756299,76,0,1,Senior,1,Female,Dataset
+Salbutamol,Asthma,98,82,2.0,8.086932851553879,98,0,0,Adult,1,Female,Dataset
+Ibuprofen,Pain,394,54,2.7,5.045735912202682,86,1,0,Child,1,Male,Dataset
+Cetirizine,Allergy,104,198,1.5,5.5334088803307235,83,1,1,Adult,0,Male,Dataset
+Montelukast,Asthma,113,233,3.1,7.867210559979773,70,1,1,Adult,1,Female,Dataset
+Amlodipine,Blood Pressure,276,94,3.0,8.293830712740409,83,1,0,Adult,1,Male,Dataset
+Naproxen,Pain,85,293,2.1,7.148000646069219,66,1,0,Child,1,Male,Dataset
+Paracetamol,Fever,395,112,1.0,5.724877710439382,82,1,1,Senior,0,Male,Dataset
+Montelukast,Allergy,216,141,3.1,6.254532928051081,75,1,0,Adult,1,Male,Dataset
+Naproxen,Pain,108,291,2.1,7.407004267940781,64,0,0,Child,1,Male,Dataset
+Aspirin,Fever,300,282,3.0,7.661301701358443,93,0,1,Adult,1,Female,Dataset
+Aspirin,Fever,339,274,3.0,6.235964954891394,76,1,1,Senior,1,Female,Dataset
+Metformin,Diabetes,130,338,3.9,8.626324644278125,72,0,0,Senior,1,Male,Dataset
+Montelukast,Allergy,194,155,3.1,7.53046176041628,65,1,0,Senior,1,Female,Dataset
+Metformin,Diabetes,117,53,3.9,6.96420758296448,68,0,1,Child,1,Female,Dataset
+Naproxen,Pain,373,345,2.1,5.525324109292184,88,1,0,Child,0,Male,Dataset
+Cetirizine,Allergy,338,232,1.5,8.685426887783354,88,1,0,Senior,0,Male,Dataset
+Diclofenac,Pain,399,258,3.4,5.128757744275048,60,1,1,Child,0,Female,Dataset
+Budesonide,Asthma,234,97,1.8,6.019398404339755,71,1,0,Adult,0,Male,Dataset
+Montelukast,Allergy,358,207,3.1,8.263051090746961,60,1,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,135,280,3.0,7.309093528586823,61,1,0,Child,0,Female,Dataset
+Montelukast,Asthma,134,197,3.1,5.061417076746637,97,0,0,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,208,104,2.4,5.90991592854739,68,0,0,Child,0,Female,Dataset
+Ibuprofen,Fever,262,182,2.7,6.883245906645509,71,1,0,Adult,1,Female,Dataset
+Losartan,Blood Pressure,189,123,2.2,5.362451612031721,62,1,0,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,93,335,2.4,8.623084851519062,91,0,1,Adult,0,Female,Dataset
+Insulin,Diabetes,134,81,4.5,8.060611891529396,83,1,1,Child,0,Male,Dataset
+Ibuprofen,Fever,194,259,2.7,5.123926365984065,62,0,0,Adult,0,Female,Dataset
+Dapagliflozin,Diabetes,309,266,2.4,8.480354092826547,94,1,1,Child,1,Male,Dataset
+Ibuprofen,Pain,85,209,2.7,6.6158905030967485,62,1,0,Senior,0,Female,Dataset
+Cetirizine,Allergy,102,290,1.5,5.70190766418847,86,0,1,Adult,1,Female,Dataset
+Paracetamol,Fever,213,349,1.0,8.318174343698296,68,1,0,Senior,1,Female,Dataset
+Dapagliflozin,Diabetes,236,125,2.4,8.559065259636313,84,1,1,Senior,0,Female,Dataset
+Fexofenadine,Allergy,273,287,2.2,6.244290310124901,96,1,1,Adult,0,Female,Dataset
+Budesonide,Asthma,366,85,1.8,8.32981700151619,97,1,0,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,180,278,3.0,5.377503995520398,77,0,0,Adult,1,Male,Dataset
+Budesonide,Asthma,163,216,1.8,6.716116909908309,61,1,1,Child,0,Male,Dataset
+Glipizide,Diabetes,88,280,3.2,6.883835063056328,81,0,0,Child,1,Female,Dataset
+Insulin,Diabetes,244,118,4.5,8.86038178585254,96,1,0,Adult,1,Male,Dataset
+Metformin,Diabetes,346,97,3.9,5.8164719707353125,82,1,0,Senior,1,Female,Dataset
+Telmisartan,Blood Pressure,165,345,2.3,7.7331057692960465,86,0,0,Senior,0,Male,Dataset
+Dapagliflozin,Diabetes,164,61,2.4,5.577351434243548,78,1,0,Adult,0,Female,Dataset
+Salbutamol,Asthma,319,313,2.0,8.256400562738573,88,1,1,Adult,0,Female,Dataset
+Loratadine,Allergy,130,248,1.2,8.880031138208915,76,1,0,Child,0,Male,Dataset
+Paracetamol,Fever,297,203,1.0,7.68319775224283,96,0,1,Child,1,Female,Dataset
+Budesonide,Asthma,332,312,1.8,6.452471551462385,62,0,0,Senior,0,Male,Dataset
+Aspirin,Fever,366,233,3.0,6.543221386230588,61,1,0,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,86,234,3.3,7.0368167509874375,75,1,0,Adult,1,Male,Dataset
+Losartan,Blood Pressure,156,148,2.2,7.047749056016428,75,1,0,Adult,1,Male,Dataset
+Loratadine,Allergy,115,139,1.2,8.391348607322566,61,1,0,Senior,0,Female,Dataset
+Amlodipine,Blood Pressure,130,257,3.0,8.303930714288246,79,1,0,Child,0,Male,Dataset
+Diclofenac,Pain,209,283,3.4,7.886225329728848,93,0,0,Child,0,Female,Dataset
+Metformin,Diabetes,228,155,3.9,5.733813884692377,86,1,0,Senior,0,Female,Dataset
+Montelukast,Allergy,305,235,3.1,5.668576722401202,76,1,0,Adult,1,Female,Dataset
+Paracetamol,Fever,88,261,1.0,7.092559446033645,72,0,1,Senior,0,Female,Dataset
+Aspirin,Fever,121,117,3.0,6.34138734888456,94,1,0,Adult,1,Male,Dataset
+Loratadine,Allergy,235,301,1.2,8.867049681074603,90,0,1,Adult,1,Female,Dataset
+Ibuprofen,Fever,326,327,2.7,5.351572182256638,97,0,0,Senior,0,Female,Dataset
+Budesonide,Asthma,223,262,1.8,7.909358219403838,93,1,0,Senior,0,Male,Dataset
+Loratadine,Allergy,211,83,1.2,5.9249027214702155,84,1,0,Senior,0,Male,Dataset
+Montelukast,Allergy,228,166,3.1,7.885551621379044,80,0,1,Adult,0,Female,Dataset
+Metformin,Diabetes,196,180,3.9,7.1403274761355675,74,1,0,Senior,1,Female,Dataset
+Aspirin,Fever,106,99,3.0,5.3175076385022155,79,0,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,208,235,3.3,5.412521194384178,82,0,1,Adult,1,Female,Dataset
+Ibuprofen,Pain,346,305,2.7,8.141086208717397,74,1,0,Child,1,Male,Dataset
+Budesonide,Asthma,317,88,1.8,8.614563327963909,74,0,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,179,215,3.0,5.061792018540526,84,1,1,Child,1,Female,Dataset
+Montelukast,Allergy,248,191,3.1,5.429686602679723,85,1,1,Child,0,Male,Dataset
+Cetirizine,Allergy,323,170,1.5,6.517836947554535,86,1,0,Child,0,Female,Dataset
+Aspirin,Fever,305,113,3.0,6.468592114304238,67,1,0,Child,1,Female,Dataset
+Telmisartan,Blood Pressure,86,233,2.3,6.858463227838187,99,1,1,Child,0,Female,Dataset
+Ibuprofen,Fever,148,171,2.7,5.2473108752172735,95,0,1,Senior,0,Male,Dataset
+Ibuprofen,Fever,291,63,2.7,6.9139235380116055,65,1,0,Adult,0,Male,Dataset
+Diclofenac,Pain,203,181,3.4,8.642513213950377,77,0,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,163,207,2.4,7.416983216185276,87,0,1,Senior,0,Female,Dataset
+Naproxen,Pain,149,221,2.1,7.920465887440252,70,0,0,Adult,1,Male,Dataset
+Amlodipine,Blood Pressure,107,319,3.0,5.92013097805866,90,1,0,Child,1,Male,Dataset
+Fexofenadine,Allergy,398,266,2.2,7.232765189501637,62,1,0,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,105,130,3.3,8.622679247453974,65,0,0,Child,0,Female,Dataset
+Montelukast,Asthma,122,341,3.1,6.348790037645607,94,0,1,Senior,1,Male,Dataset
+Budesonide,Asthma,291,67,1.8,8.272504082816177,93,1,1,Senior,0,Male,Dataset
+Paracetamol,Fever,369,55,1.0,6.703235166241676,89,0,0,Senior,0,Female,Dataset
+Ibuprofen,Fever,368,225,2.7,7.639691385842742,81,0,1,Adult,0,Female,Dataset
+Diclofenac,Pain,375,241,3.4,8.270121694646118,89,0,1,Senior,0,Male,Dataset
+Glipizide,Diabetes,272,196,3.2,6.406840553971415,71,1,0,Adult,0,Male,Dataset
+Salbutamol,Asthma,381,209,2.0,6.364228613105118,68,0,1,Child,0,Female,Dataset
+Cetirizine,Allergy,202,242,1.5,6.735333805621467,93,0,1,Senior,0,Male,Dataset
+Budesonide,Asthma,367,253,1.8,7.217433279425039,60,1,1,Child,0,Female,Dataset
+Amlodipine,Blood Pressure,150,68,3.0,7.222601016096906,99,0,1,Child,1,Female,Dataset
+Paracetamol,Fever,174,261,1.0,7.436446750729558,61,1,0,Child,0,Male,Dataset
+Montelukast,Allergy,393,130,3.1,8.803557376259539,61,1,0,Adult,0,Female,Dataset
+Ibuprofen,Fever,165,136,2.7,5.309827216851288,84,1,1,Child,0,Female,Dataset
+Montelukast,Asthma,169,247,3.1,6.368658149000586,75,0,0,Senior,0,Male,Dataset
+Metformin,Diabetes,108,143,3.9,7.694983059188777,60,0,0,Adult,0,Male,Dataset
+Ibuprofen,Pain,248,240,2.7,7.982273037039433,64,1,1,Senior,0,Female,Dataset
+Montelukast,Allergy,183,331,3.1,6.131815129911604,66,1,1,Child,1,Male,Dataset
+Aspirin,Fever,89,297,3.0,8.642274843191935,65,0,1,Child,0,Male,Dataset
+Atenolol,Blood Pressure,164,304,3.3,7.385468997842118,98,1,1,Adult,0,Female,Dataset
+Aspirin,Fever,339,124,3.0,7.1743658855816905,89,0,0,Child,1,Male,Dataset
+Paracetamol,Fever,121,234,1.0,6.470695021931492,91,1,0,Senior,0,Male,Dataset
+Ibuprofen,Pain,281,140,2.7,6.2895541281685166,76,1,0,Adult,0,Male,Dataset
+Glipizide,Diabetes,197,344,3.2,5.150503931880543,99,0,0,Senior,1,Male,Dataset
+Dapagliflozin,Diabetes,129,192,2.4,8.85101779090131,67,0,0,Child,0,Female,Dataset
+Budesonide,Asthma,209,170,1.8,7.943257822834339,98,0,1,Adult,1,Male,Dataset
+Ibuprofen,Fever,271,83,2.7,5.554497036854306,75,0,0,Child,1,Male,Dataset
+Insulin,Diabetes,324,348,4.5,5.111491811140858,90,1,1,Child,1,Female,Dataset
+Glipizide,Diabetes,198,128,3.2,6.665512558507503,75,0,0,Adult,1,Male,Dataset
+Aspirin,Fever,203,103,3.0,5.059625695983954,99,0,0,Child,1,Male,Dataset
+Montelukast,Allergy,142,50,3.1,5.068320266435072,73,1,0,Adult,1,Female,Dataset
+Budesonide,Asthma,162,135,1.8,8.641715432705979,95,1,0,Adult,1,Male,Dataset
+Loratadine,Allergy,236,327,1.2,8.69825693972196,83,0,1,Senior,1,Female,Dataset
+Aspirin,Fever,227,342,3.0,8.553652900138035,74,0,0,Adult,0,Female,Dataset
+Aspirin,Fever,329,155,3.0,6.531853660920414,96,0,1,Adult,1,Male,Dataset
+Fexofenadine,Allergy,243,321,2.2,6.407992567521414,86,0,0,Child,1,Female,Dataset
+Ibuprofen,Pain,311,348,2.7,8.443593422730158,66,0,0,Child,1,Female,Dataset
+Losartan,Blood Pressure,299,255,2.2,5.519837918967568,77,1,1,Senior,0,Male,Dataset
+Aspirin,Fever,127,174,3.0,8.44214654368147,96,1,1,Child,1,Female,Dataset
+Naproxen,Pain,293,293,2.1,5.0729672201445535,98,0,0,Child,0,Female,Dataset
+Naproxen,Pain,186,70,2.1,5.224801959712963,93,0,1,Child,1,Male,Dataset
+Budesonide,Asthma,134,347,1.8,8.843525611248673,77,1,0,Child,1,Male,Dataset
+Ibuprofen,Pain,374,143,2.7,6.603851816342239,75,0,0,Adult,0,Female,Dataset
+Loratadine,Allergy,298,306,1.2,8.471021095232917,83,0,1,Child,0,Male,Dataset
+Budesonide,Asthma,394,303,1.8,6.131363668318359,78,0,1,Adult,1,Female,Dataset
+Salbutamol,Asthma,136,284,2.0,7.777454420001992,82,0,1,Child,0,Male,Dataset
+Ibuprofen,Pain,346,62,2.7,6.361082867251938,63,1,1,Adult,0,Female,Dataset
+Loratadine,Allergy,167,70,1.2,8.647498688152712,84,1,1,Adult,1,Female,Dataset
+Naproxen,Pain,243,281,2.1,6.830468785084733,61,1,0,Senior,1,Male,Dataset
+Diclofenac,Pain,396,291,3.4,5.979078277642438,71,1,1,Senior,1,Female,Dataset
+Losartan,Blood Pressure,268,263,2.2,5.544361074959808,71,0,1,Adult,0,Female,Dataset
+Losartan,Blood Pressure,102,105,2.2,7.0239297585406195,92,1,1,Senior,1,Female,Dataset
+Glipizide,Diabetes,159,315,3.2,8.658592879864093,94,0,1,Senior,1,Female,Dataset
+Cetirizine,Allergy,351,112,1.5,8.916916302147293,72,0,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,117,240,3.0,8.039512234011,79,1,0,Child,0,Male,Dataset
+Salbutamol,Asthma,306,56,2.0,8.841440823909053,68,0,0,Adult,0,Male,Dataset
+Budesonide,Asthma,189,224,1.8,8.379503595079953,76,1,0,Adult,1,Female,Dataset
+Budesonide,Asthma,385,256,1.8,6.571065278574283,61,0,1,Adult,1,Male,Dataset
+Aspirin,Fever,221,147,3.0,6.722063531326706,71,1,1,Senior,1,Male,Dataset
+Paracetamol,Fever,209,60,1.0,8.851790260867524,93,1,1,Adult,0,Female,Dataset
+Naproxen,Pain,362,216,2.1,7.9441873160982555,80,0,0,Child,1,Male,Dataset
+Glipizide,Diabetes,342,56,3.2,7.978686997724746,85,1,0,Adult,1,Male,Dataset
+Glipizide,Diabetes,197,105,3.2,5.923595744126867,84,0,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,274,204,3.0,7.097514680847237,96,0,1,Child,0,Female,Dataset
+Budesonide,Asthma,328,329,1.8,7.2988990935106255,76,0,0,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,217,58,3.3,5.198696773890051,63,1,1,Child,1,Male,Dataset
+Naproxen,Pain,204,206,2.1,6.220690741232813,85,0,0,Adult,0,Male,Dataset
+Fexofenadine,Allergy,169,314,2.2,7.772215882982252,67,0,1,Senior,1,Female,Dataset
+Losartan,Blood Pressure,288,297,2.2,7.578555213382303,80,1,1,Senior,0,Male,Dataset
+Atenolol,Blood Pressure,258,143,3.3,8.779732077474492,98,1,0,Child,0,Female,Dataset
+Salbutamol,Asthma,357,343,2.0,6.566927875797399,79,0,1,Adult,0,Female,Dataset
+Montelukast,Asthma,111,103,3.1,8.141940674685967,66,0,0,Child,0,Female,Dataset
+Glipizide,Diabetes,101,283,3.2,8.765205491404085,78,0,0,Adult,1,Male,Dataset
+Aspirin,Fever,338,135,3.0,5.021234339446892,74,1,1,Adult,0,Female,Dataset
+Salbutamol,Asthma,144,343,2.0,8.601214157338902,69,0,1,Child,0,Female,Dataset
+Insulin,Diabetes,390,132,4.5,8.986972508948181,70,1,1,Adult,1,Male,Dataset
+Fexofenadine,Allergy,173,105,2.2,5.07076833743057,77,0,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,256,105,3.2,7.788215511910506,92,1,0,Adult,0,Male,Dataset
+Fexofenadine,Allergy,372,184,2.2,8.22146810621016,76,0,1,Adult,1,Female,Dataset
+Paracetamol,Fever,157,348,1.0,6.990690991739031,81,1,0,Child,1,Male,Dataset
+Fexofenadine,Allergy,141,290,2.2,5.004327541167357,72,0,1,Senior,1,Female,Dataset
+Telmisartan,Blood Pressure,140,59,2.3,5.231029549325434,60,1,1,Child,0,Female,Dataset
+Ibuprofen,Pain,98,186,2.7,7.245939641522889,61,1,0,Child,0,Male,Dataset
+Ibuprofen,Pain,246,249,2.7,5.085361458247836,98,0,1,Child,0,Female,Dataset
+Aspirin,Pain,364,123,3.0,5.93275094659304,99,0,0,Senior,1,Male,Dataset
+Montelukast,Asthma,266,129,3.1,5.026588299800089,86,1,0,Adult,1,Male,Dataset
+Amlodipine,Blood Pressure,88,142,3.0,5.449894400014749,82,0,0,Adult,0,Male,Dataset
+Insulin,Diabetes,114,244,4.5,6.7842581838468075,70,1,0,Adult,0,Male,Dataset
+Losartan,Blood Pressure,347,266,2.2,6.157516782688545,68,0,1,Adult,0,Male,Dataset
+Diclofenac,Pain,331,292,3.4,8.378286420329133,61,1,0,Child,0,Female,Dataset
+Losartan,Blood Pressure,389,140,2.2,7.617442065973183,77,0,0,Child,1,Male,Dataset
+Telmisartan,Blood Pressure,366,173,2.3,6.1931787486073375,93,0,0,Child,0,Male,Dataset
+Cetirizine,Allergy,275,220,1.5,6.256757472847877,86,1,0,Senior,1,Male,Dataset
+Montelukast,Asthma,172,131,3.1,6.151858270672456,72,0,0,Senior,0,Female,Dataset
+Salbutamol,Asthma,246,64,2.0,5.907808551418958,87,0,1,Adult,0,Male,Dataset
+Ibuprofen,Fever,220,79,2.7,6.439758617364996,92,1,1,Senior,1,Male,Dataset
+Diclofenac,Pain,226,154,3.4,5.846617919558891,86,1,0,Child,1,Male,Dataset
+Aspirin,Pain,139,180,3.0,8.115272838969005,63,0,0,Adult,0,Male,Dataset
+Ibuprofen,Pain,334,260,2.7,7.920963562411211,74,0,0,Adult,1,Male,Dataset
+Aspirin,Fever,266,201,3.0,8.924378813780368,90,1,0,Child,0,Male,Dataset
+Diclofenac,Pain,220,248,3.4,7.395373989335901,98,1,1,Adult,0,Male,Dataset
+Montelukast,Asthma,207,92,3.1,7.626278685171509,79,0,0,Adult,0,Male,Dataset
+Fexofenadine,Allergy,359,192,2.2,7.164430370273761,69,1,0,Child,0,Female,Dataset
+Cetirizine,Allergy,163,74,1.5,6.214333759681626,69,0,1,Child,0,Male,Dataset
+Ibuprofen,Pain,189,348,2.7,6.4246538225787635,96,0,0,Child,1,Male,Dataset
+Aspirin,Fever,368,188,3.0,8.699432847152513,94,0,1,Adult,1,Female,Dataset
+Montelukast,Allergy,269,164,3.1,7.434738104736926,77,1,0,Child,0,Female,Dataset
+Loratadine,Allergy,320,346,1.2,5.850432379275553,80,0,0,Child,1,Female,Dataset
+Ibuprofen,Fever,198,339,2.7,6.358873726173382,93,0,0,Senior,1,Male,Dataset
+Ibuprofen,Pain,396,95,2.7,6.367259848982641,70,1,1,Adult,0,Male,Dataset
+Atenolol,Blood Pressure,224,139,3.3,5.996306705994172,85,0,0,Child,0,Female,Dataset
+Insulin,Diabetes,369,249,4.5,5.241374093179029,81,0,0,Senior,0,Male,Dataset
+Insulin,Diabetes,292,328,4.5,8.659368779094294,94,0,0,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,397,338,3.0,6.582089726909378,83,1,1,Senior,1,Male,Dataset
+Paracetamol,Fever,178,178,1.0,8.657590041627767,66,0,1,Adult,0,Female,Dataset
+Salbutamol,Asthma,122,244,2.0,8.704805480692789,82,0,0,Senior,0,Male,Dataset
+Naproxen,Pain,363,120,2.1,8.081076405826828,98,1,0,Adult,1,Female,Dataset
+Ibuprofen,Fever,282,107,2.7,7.186560452393291,70,1,1,Senior,1,Male,Dataset
+Budesonide,Asthma,318,340,1.8,5.994451169506124,76,1,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,287,225,3.3,6.658838528356561,96,0,1,Adult,1,Male,Dataset
+Fexofenadine,Allergy,121,251,2.2,7.944806560449088,82,1,1,Senior,0,Female,Dataset
+Aspirin,Pain,145,145,3.0,6.837414661264201,81,1,0,Senior,0,Male,Dataset
+Budesonide,Asthma,366,260,1.8,8.01279994607135,90,1,0,Senior,1,Male,Dataset
+Losartan,Blood Pressure,396,152,2.2,5.880118277930166,98,1,0,Adult,1,Female,Dataset
+Paracetamol,Fever,218,86,1.0,6.6690397332924025,86,0,1,Adult,1,Male,Dataset
+Amlodipine,Blood Pressure,318,258,3.0,8.78961646665336,75,1,1,Adult,1,Male,Dataset
+Metformin,Diabetes,204,108,3.9,8.676511844105889,95,1,1,Adult,1,Female,Dataset
+Salbutamol,Asthma,121,167,2.0,8.06662773867202,90,1,1,Senior,0,Male,Dataset
+Naproxen,Pain,345,85,2.1,8.328033580860193,95,0,0,Senior,0,Male,Dataset
+Ibuprofen,Pain,112,344,2.7,6.895093554026678,65,1,1,Senior,0,Male,Dataset
+Montelukast,Asthma,187,313,3.1,5.136192991797489,79,1,1,Child,1,Female,Dataset
+Atenolol,Blood Pressure,188,147,3.3,6.38152317793476,99,0,0,Senior,1,Female,Dataset
+Losartan,Blood Pressure,97,145,2.2,6.777475078125509,76,0,1,Adult,1,Male,Dataset
+Losartan,Blood Pressure,390,84,2.2,6.636560333640919,68,1,0,Senior,0,Male,Dataset
+Metformin,Diabetes,352,105,3.9,8.961527908664813,84,1,1,Senior,0,Male,Dataset
+Diclofenac,Pain,341,289,3.4,8.03444458106615,76,1,1,Adult,0,Female,Dataset
+Glipizide,Diabetes,127,153,3.2,6.269532123303074,91,1,0,Child,0,Male,Dataset
+Dapagliflozin,Diabetes,322,122,2.4,7.39788029087494,61,0,0,Senior,0,Female,Dataset
+Budesonide,Asthma,368,149,1.8,7.212449979336899,68,1,1,Senior,1,Male,Dataset
+Insulin,Diabetes,284,124,4.5,7.289228089513266,92,1,0,Child,1,Male,Dataset
+Paracetamol,Fever,308,117,1.0,7.3268741937321185,66,0,0,Senior,0,Female,Dataset
+Salbutamol,Asthma,219,306,2.0,5.326288952534181,77,1,1,Child,0,Male,Dataset
+Aspirin,Fever,345,143,3.0,7.7374276917640605,84,1,0,Adult,1,Female,Dataset
+Losartan,Blood Pressure,171,300,2.2,7.128244810981686,87,1,1,Child,1,Female,Dataset
+Naproxen,Pain,345,135,2.1,8.617770172237998,68,1,0,Adult,0,Female,Dataset
+Ibuprofen,Fever,280,313,2.7,5.953029248445006,88,0,0,Child,0,Male,Dataset
+Aspirin,Fever,251,298,3.0,5.367517617676729,93,1,1,Senior,1,Male,Dataset
+Glipizide,Diabetes,348,332,3.2,8.252103677716685,90,1,0,Child,0,Female,Dataset
+Montelukast,Asthma,146,172,3.1,6.285738226513047,71,1,0,Senior,0,Male,Dataset
+Dapagliflozin,Diabetes,175,138,2.4,7.054137750462352,79,1,1,Adult,1,Male,Dataset
+Naproxen,Pain,201,118,2.1,8.473616360817873,75,1,0,Adult,0,Male,Dataset
+Budesonide,Asthma,102,111,1.8,5.9999849012043125,67,1,1,Adult,1,Male,Dataset
+Montelukast,Asthma,313,348,3.1,7.189302035002645,74,1,1,Adult,0,Male,Dataset
+Salbutamol,Asthma,270,260,2.0,5.950134870503816,96,0,0,Senior,0,Female,Dataset
+Paracetamol,Fever,128,265,1.0,6.21391728734687,63,1,1,Senior,1,Female,Dataset
+Aspirin,Pain,318,300,3.0,5.556088241865801,99,0,0,Child,1,Male,Dataset
+Losartan,Blood Pressure,99,181,2.2,5.046040447463688,87,0,0,Adult,0,Male,Dataset
+Budesonide,Asthma,162,150,1.8,7.737454033091477,62,1,1,Adult,1,Male,Dataset
+Telmisartan,Blood Pressure,343,67,2.3,7.376584113936625,73,0,1,Adult,1,Male,Dataset
+Budesonide,Asthma,366,214,1.8,8.973149262961076,65,0,0,Child,1,Male,Dataset
+Atenolol,Blood Pressure,283,278,3.3,6.342001528037814,66,1,1,Senior,0,Male,Dataset
+Loratadine,Allergy,283,277,1.2,7.032024823231424,75,0,1,Senior,0,Female,Dataset
+Diclofenac,Pain,255,250,3.4,7.866973651927033,92,0,0,Senior,1,Female,Dataset
+Aspirin,Pain,253,271,3.0,7.940843685405525,95,0,0,Senior,1,Male,Dataset
+Dapagliflozin,Diabetes,263,67,2.4,6.810724132031761,77,1,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,354,317,3.0,8.14615825212774,99,0,0,Child,1,Male,Dataset
+Insulin,Diabetes,361,279,4.5,6.22507256365104,77,1,1,Adult,1,Female,Dataset
+Aspirin,Pain,253,186,3.0,5.882083248183111,97,0,0,Senior,0,Male,Dataset
+Loratadine,Allergy,91,311,1.2,5.563867960686461,94,0,1,Senior,0,Female,Dataset
+Montelukast,Asthma,158,257,3.1,7.3341944372805346,70,0,0,Child,1,Male,Dataset
+Ibuprofen,Pain,131,73,2.7,5.629767625111753,62,1,1,Child,1,Male,Dataset
+Insulin,Diabetes,292,110,4.5,6.24521053602082,81,1,0,Adult,1,Female,Dataset
+Loratadine,Allergy,285,64,1.2,5.859126959949394,66,1,0,Senior,1,Male,Dataset
+Ibuprofen,Fever,141,260,2.7,6.244246887463975,76,0,1,Senior,1,Female,Dataset
+Salbutamol,Asthma,90,314,2.0,8.418976238071075,78,1,0,Senior,0,Female,Dataset
+Aspirin,Pain,260,319,3.0,5.187242014044635,84,0,1,Adult,0,Female,Dataset
+Aspirin,Fever,205,303,3.0,7.5266426493637795,62,1,0,Child,1,Female,Dataset
+Budesonide,Asthma,357,291,1.8,6.794497930042509,63,0,1,Child,0,Female,Dataset
+Metformin,Diabetes,259,321,3.9,7.877690616345952,63,1,0,Adult,1,Female,Dataset
+Cetirizine,Allergy,338,223,1.5,5.259440168806853,73,1,0,Child,1,Female,Dataset
+Insulin,Diabetes,210,127,4.5,8.500192254970674,77,1,1,Child,0,Male,Dataset
+Insulin,Diabetes,214,335,4.5,5.022793631148701,60,0,0,Senior,0,Female,Dataset
+Fexofenadine,Allergy,372,322,2.2,6.50723279067434,79,1,1,Child,0,Male,Dataset
+Montelukast,Asthma,148,112,3.1,5.069169058434147,92,1,1,Senior,1,Male,Dataset
+Montelukast,Asthma,243,117,3.1,6.254770004425605,71,1,1,Child,1,Female,Dataset
+Salbutamol,Asthma,300,280,2.0,8.575570858130543,66,0,1,Child,1,Female,Dataset
+Diclofenac,Pain,93,234,3.4,5.78814923652061,67,0,0,Adult,1,Female,Dataset
+Budesonide,Asthma,315,248,1.8,7.717746243407767,92,0,0,Adult,0,Female,Dataset
+Atenolol,Blood Pressure,112,154,3.3,5.826053148803522,84,0,0,Adult,0,Female,Dataset
+Budesonide,Asthma,334,228,1.8,5.363535574922522,97,0,0,Child,1,Male,Dataset
+Paracetamol,Fever,142,219,1.0,8.096140271886082,99,0,1,Adult,1,Female,Dataset
+Insulin,Diabetes,295,74,4.5,7.193626936750237,78,0,1,Senior,0,Female,Dataset
+Dapagliflozin,Diabetes,366,116,2.4,8.880594266077436,94,0,1,Adult,1,Female,Dataset
+Salbutamol,Asthma,148,120,2.0,5.1227159532006405,60,1,0,Child,1,Male,Dataset
+Paracetamol,Fever,248,137,1.0,6.754366079448497,65,1,0,Child,0,Female,Dataset
+Aspirin,Fever,315,282,3.0,6.192970477928748,73,0,1,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,298,255,3.3,6.5555252247297116,70,0,0,Child,0,Female,Dataset
+Glipizide,Diabetes,168,315,3.2,5.315064455544073,88,0,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,262,306,3.0,7.329681209545459,82,0,0,Senior,1,Male,Dataset
+Dapagliflozin,Diabetes,346,171,2.4,8.225916949489203,68,0,0,Senior,1,Male,Dataset
+Aspirin,Fever,220,212,3.0,5.8894215282765545,89,1,0,Child,0,Male,Dataset
+Salbutamol,Asthma,333,297,2.0,8.307371008431117,96,0,1,Adult,1,Female,Dataset
+Montelukast,Allergy,341,134,3.1,7.298462985106961,63,0,1,Senior,0,Female,Dataset
+Losartan,Blood Pressure,342,308,2.2,5.908464993423838,79,1,1,Senior,0,Male,Dataset
+Budesonide,Asthma,304,250,1.8,6.905215963962597,81,0,1,Child,1,Male,Dataset
+Salbutamol,Asthma,115,301,2.0,7.272193935081836,94,0,0,Adult,1,Male,Dataset
+Loratadine,Allergy,287,149,1.2,7.073164255817074,60,0,1,Adult,1,Female,Dataset
+Insulin,Diabetes,227,81,4.5,5.840218741133434,65,0,1,Child,1,Male,Dataset
+Loratadine,Allergy,275,335,1.2,7.580682039696461,95,1,1,Adult,1,Female,Dataset
+Atenolol,Blood Pressure,241,262,3.3,8.385362229649544,60,0,1,Adult,0,Female,Dataset
+Salbutamol,Asthma,345,166,2.0,5.2204411937824995,98,1,0,Senior,1,Male,Dataset
+Cetirizine,Allergy,294,231,1.5,8.295785141059955,82,1,1,Child,1,Male,Dataset
+Ibuprofen,Pain,292,268,2.7,6.566346629452401,66,0,1,Child,0,Female,Dataset
+Salbutamol,Asthma,150,291,2.0,6.003865908074537,61,0,1,Senior,1,Male,Dataset
+Losartan,Blood Pressure,213,230,2.2,8.019729689626182,62,0,0,Child,1,Male,Dataset
+Dapagliflozin,Diabetes,187,206,2.4,7.691849053021115,75,1,0,Child,0,Male,Dataset
+Salbutamol,Asthma,197,177,2.0,8.09680884598043,91,0,1,Child,0,Female,Dataset
+Telmisartan,Blood Pressure,181,332,2.3,5.541862765243961,96,1,0,Adult,1,Female,Dataset
+Dapagliflozin,Diabetes,348,109,2.4,8.034298874627552,67,0,0,Senior,1,Male,Dataset
+Metformin,Diabetes,171,134,3.9,5.82191760927169,99,1,1,Senior,1,Female,Dataset
+Ibuprofen,Fever,336,191,2.7,5.508167373739266,92,0,1,Adult,1,Male,Dataset
+Loratadine,Allergy,202,332,1.2,6.302183963619562,77,0,1,Senior,0,Male,Dataset
+Montelukast,Asthma,202,120,3.1,6.772086258274932,93,1,0,Child,0,Female,Dataset
+Glipizide,Diabetes,177,70,3.2,6.610496895165317,84,1,1,Senior,1,Male,Dataset
+Aspirin,Fever,151,184,3.0,6.612957174784483,79,1,1,Senior,0,Male,Dataset
+Fexofenadine,Allergy,237,139,2.2,7.971818020126661,93,0,0,Senior,0,Female,Dataset
+Telmisartan,Blood Pressure,112,112,2.3,6.714325090171982,73,1,0,Adult,0,Male,Dataset
+Naproxen,Pain,337,97,2.1,5.26727020023036,69,1,0,Child,1,Female,Dataset
+Glipizide,Diabetes,258,274,3.2,8.194192512640793,66,1,1,Adult,1,Female,Dataset
+Salbutamol,Asthma,319,216,2.0,8.154074212612972,61,0,0,Child,1,Female,Dataset
+Aspirin,Fever,234,335,3.0,7.2216007494896814,66,1,0,Senior,1,Female,Dataset
+Cetirizine,Allergy,205,95,1.5,6.0580665065521595,78,0,1,Child,0,Female,Dataset
+Dapagliflozin,Diabetes,235,292,2.4,6.5565754232035,91,0,1,Child,1,Female,Dataset
+Aspirin,Fever,178,220,3.0,8.83797925526926,93,1,1,Adult,1,Male,Dataset
+Aspirin,Pain,141,190,3.0,5.828112954535081,76,1,0,Adult,1,Female,Dataset
+Fexofenadine,Allergy,394,266,2.2,5.890277237962776,79,0,0,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,356,54,3.3,7.069269198993239,87,0,0,Adult,0,Female,Dataset
+Cetirizine,Allergy,296,83,1.5,8.398647619933833,85,0,1,Adult,0,Female,Dataset
+Salbutamol,Asthma,296,163,2.0,7.473119765778193,75,1,0,Adult,0,Male,Dataset
+Fexofenadine,Allergy,340,304,2.2,8.82146649889961,78,1,1,Child,1,Male,Dataset
+Glipizide,Diabetes,275,281,3.2,5.563851448835155,61,1,1,Child,1,Female,Dataset
+Telmisartan,Blood Pressure,86,56,2.3,5.383168159193248,61,0,0,Adult,1,Female,Dataset
+Telmisartan,Blood Pressure,163,131,2.3,6.29174185040803,90,1,1,Adult,1,Female,Dataset
+Atenolol,Blood Pressure,343,246,3.3,5.043039642075573,87,0,0,Adult,1,Male,Dataset
+Aspirin,Fever,150,306,3.0,8.424397027544337,74,1,1,Adult,1,Female,Dataset
+Montelukast,Asthma,108,151,3.1,6.898917568904142,74,1,0,Child,0,Male,Dataset
+Montelukast,Asthma,340,191,3.1,6.737407939032122,79,0,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,148,154,3.3,6.34858167773282,97,0,1,Adult,1,Male,Dataset
+Ibuprofen,Fever,217,312,2.7,8.828300305796859,99,1,0,Senior,0,Female,Dataset
+Salbutamol,Asthma,214,315,2.0,5.756197874225354,64,0,0,Child,0,Male,Dataset
+Glipizide,Diabetes,315,257,3.2,7.910785765372351,90,1,0,Adult,0,Female,Dataset
+Loratadine,Allergy,174,84,1.2,8.618732905763594,71,1,1,Senior,1,Female,Dataset
+Ibuprofen,Fever,95,318,2.7,5.508376439112974,81,0,0,Child,1,Female,Dataset
+Fexofenadine,Allergy,150,123,2.2,7.460739795285426,65,0,1,Senior,1,Female,Dataset
+Losartan,Blood Pressure,342,118,2.2,7.831926892147714,97,0,0,Senior,0,Female,Dataset
+Aspirin,Fever,226,234,3.0,7.92949819587867,94,0,0,Adult,0,Female,Dataset
+Amlodipine,Blood Pressure,159,143,3.0,5.219883570756092,64,0,0,Adult,0,Male,Dataset
+Salbutamol,Asthma,175,288,2.0,7.310345997242084,83,0,0,Child,1,Male,Dataset
+Budesonide,Asthma,339,91,1.8,7.1388633332400016,83,1,0,Child,0,Male,Dataset
+Loratadine,Allergy,300,209,1.2,8.389379073870508,93,0,1,Child,0,Female,Dataset
+Telmisartan,Blood Pressure,226,224,2.3,7.2538672966782105,93,1,0,Adult,0,Female,Dataset
+Salbutamol,Asthma,297,96,2.0,8.371827634302607,87,0,1,Adult,0,Male,Dataset
+Aspirin,Fever,86,151,3.0,8.03506314564323,96,1,1,Child,0,Male,Dataset
+Diclofenac,Pain,121,79,3.4,8.672320652885542,92,0,1,Child,0,Female,Dataset
+Naproxen,Pain,86,215,2.1,6.371716073474642,77,1,1,Senior,1,Female,Dataset
+Montelukast,Asthma,151,110,3.1,8.61037547261846,71,0,1,Child,1,Female,Dataset
+Aspirin,Fever,277,261,3.0,7.785140911014006,77,1,0,Child,1,Female,Dataset
+Salbutamol,Asthma,381,280,2.0,6.176413432298632,92,0,0,Senior,0,Female,Dataset
+Insulin,Diabetes,142,204,4.5,8.28745370400993,64,0,0,Senior,1,Male,Dataset
+Montelukast,Asthma,383,204,3.1,5.495130684121004,87,1,1,Adult,0,Male,Dataset
+Budesonide,Asthma,134,249,1.8,8.2018169921653,70,1,0,Child,1,Female,Dataset
+Cetirizine,Allergy,329,330,1.5,8.282027195680328,76,1,0,Adult,0,Male,Dataset
+Naproxen,Pain,262,200,2.1,5.3126726162800155,70,1,0,Child,1,Male,Dataset
+Salbutamol,Asthma,307,347,2.0,8.977749939222878,64,0,1,Adult,1,Female,Dataset
+Salbutamol,Asthma,83,182,2.0,6.789032443376391,81,0,0,Child,0,Male,Dataset
+Ibuprofen,Pain,131,244,2.7,6.422030011299238,70,1,0,Adult,1,Female,Dataset
+Dapagliflozin,Diabetes,396,138,2.4,6.446545163956488,96,1,1,Child,1,Female,Dataset
+Ibuprofen,Pain,93,209,2.7,5.999338213409568,76,0,1,Adult,0,Male,Dataset
+Amlodipine,Blood Pressure,89,141,3.0,8.19953204071896,71,1,1,Child,1,Male,Dataset
+Paracetamol,Fever,332,217,1.0,5.295407611836252,75,1,1,Adult,0,Female,Dataset
+Ibuprofen,Pain,149,135,2.7,5.8132867146051606,80,0,1,Senior,1,Female,Dataset
+Glipizide,Diabetes,217,327,3.2,8.090463161010195,78,0,0,Senior,1,Male,Dataset
+Amlodipine,Blood Pressure,192,293,3.0,7.493583663166033,82,1,0,Senior,1,Female,Dataset
+Ibuprofen,Fever,207,155,2.7,6.711598390977107,70,0,0,Child,0,Male,Dataset
+Glipizide,Diabetes,340,106,3.2,6.069597335825496,86,1,1,Adult,0,Male,Dataset
+Diclofenac,Pain,118,134,3.4,7.929344990225284,95,0,0,Adult,1,Male,Dataset
+Montelukast,Asthma,110,191,3.1,7.30089885619374,90,1,0,Adult,0,Male,Dataset
+Cetirizine,Allergy,235,164,1.5,6.927694890620437,86,0,1,Child,1,Female,Dataset
+Naproxen,Pain,91,339,2.1,8.828384054883877,62,0,1,Senior,0,Female,Dataset
+Aspirin,Fever,349,220,3.0,6.57428493758594,78,1,1,Senior,1,Female,Dataset
+Loratadine,Allergy,222,324,1.2,6.325133663915538,60,1,1,Child,0,Male,Dataset
+Telmisartan,Blood Pressure,113,216,2.3,5.3301402660052,96,0,0,Senior,0,Male,Dataset
+Budesonide,Asthma,177,67,1.8,5.686530900860701,96,0,1,Senior,1,Male,Dataset
+Losartan,Blood Pressure,196,106,2.2,5.411620108305348,80,1,0,Adult,1,Male,Dataset
+Ibuprofen,Pain,136,327,2.7,5.17202410656752,76,1,1,Adult,1,Male,Dataset
+Salbutamol,Asthma,367,302,2.0,8.090921905339592,96,0,0,Senior,0,Female,Dataset
+Telmisartan,Blood Pressure,164,73,2.3,8.516147505703678,81,1,1,Child,0,Male,Dataset
+Cetirizine,Allergy,198,200,1.5,8.252187840909466,98,1,0,Adult,1,Male,Dataset
+Insulin,Diabetes,371,275,4.5,7.832463925986302,89,1,1,Adult,1,Male,Dataset
+Paracetamol,Fever,257,323,1.0,6.983194650904988,67,1,0,Adult,0,Male,Dataset
+Aspirin,Fever,284,114,3.0,6.067754490287088,84,1,1,Senior,1,Female,Dataset
+Aspirin,Fever,91,117,3.0,7.298429399197898,86,1,0,Child,0,Male,Dataset
+Ibuprofen,Fever,231,313,2.7,7.214032050920529,67,0,0,Adult,1,Female,Dataset
+Atenolol,Blood Pressure,225,66,3.3,5.077453054957907,63,0,0,Adult,1,Male,Dataset
+Budesonide,Asthma,392,87,1.8,5.677201733273796,64,1,1,Child,1,Female,Dataset
+Aspirin,Fever,111,297,3.0,6.420892224880014,94,1,1,Child,1,Male,Dataset
+Montelukast,Allergy,359,159,3.1,6.327915511033152,86,0,1,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,152,55,3.0,5.460145875618837,66,1,1,Senior,1,Female,Dataset
+Ibuprofen,Fever,82,309,2.7,5.688486988398132,97,0,1,Senior,0,Male,Dataset
+Naproxen,Pain,261,155,2.1,5.837206946086909,99,1,0,Child,1,Male,Dataset
+Aspirin,Pain,345,244,3.0,7.168052175542698,77,0,1,Child,1,Male,Dataset
+Fexofenadine,Allergy,130,223,2.2,6.50597206337774,68,1,1,Senior,0,Male,Dataset
+Salbutamol,Asthma,398,325,2.0,8.578854474065748,63,0,0,Senior,1,Male,Dataset
+Cetirizine,Allergy,317,73,1.5,8.587054848796269,84,1,1,Child,1,Male,Dataset
+Dapagliflozin,Diabetes,360,296,2.4,7.135843307564504,90,1,0,Senior,1,Female,Dataset
+Atenolol,Blood Pressure,111,274,3.3,8.99496291316659,60,1,1,Adult,1,Male,Dataset
+Ibuprofen,Pain,278,143,2.7,5.508787885913328,87,0,1,Adult,1,Male,Dataset
+Ibuprofen,Fever,272,326,2.7,7.187142375128049,78,1,1,Adult,1,Female,Dataset
+Amlodipine,Blood Pressure,228,126,3.0,7.868999692917314,97,0,0,Senior,1,Male,Dataset
+Paracetamol,Fever,345,111,1.0,5.941720322200386,64,1,1,Senior,0,Male,Dataset
+Cetirizine,Allergy,360,204,1.5,7.8337757300090605,68,1,1,Child,0,Male,Dataset
+Cetirizine,Allergy,113,264,1.5,5.407513492351936,87,0,1,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,268,255,3.0,8.124511166484476,67,0,0,Child,1,Male,Dataset
+Salbutamol,Asthma,81,219,2.0,5.879233768283637,71,0,0,Child,0,Male,Dataset
+Montelukast,Allergy,255,82,3.1,5.266518573999642,70,1,0,Adult,1,Male,Dataset
+Naproxen,Pain,148,282,2.1,8.383248944467507,96,1,0,Adult,0,Male,Dataset
+Insulin,Diabetes,361,286,4.5,8.304899747591186,70,0,1,Child,0,Male,Dataset
+Insulin,Diabetes,180,98,4.5,8.127925550066893,93,1,0,Child,1,Male,Dataset
+Cetirizine,Allergy,198,53,1.5,6.265064222637708,79,0,1,Adult,1,Female,Dataset
+Metformin,Diabetes,388,239,3.9,7.417016558277526,60,1,1,Adult,1,Male,Dataset
+Cetirizine,Allergy,287,214,1.5,7.3859829712377625,92,0,1,Senior,1,Male,Dataset
+Atenolol,Blood Pressure,261,159,3.3,7.8058884079084425,98,0,0,Child,1,Female,Dataset
+Dapagliflozin,Diabetes,347,159,2.4,7.830922389431861,65,0,0,Senior,1,Male,Dataset
+Montelukast,Allergy,195,160,3.1,6.460254150699795,79,0,0,Senior,0,Male,Dataset
+Amlodipine,Blood Pressure,382,65,3.0,5.366077562675455,77,0,0,Adult,0,Female,Dataset
+Budesonide,Asthma,103,266,1.8,5.1571271422948755,69,1,1,Child,1,Female,Dataset
+Amlodipine,Blood Pressure,354,300,3.0,7.235957675079366,89,0,1,Adult,0,Male,Dataset
